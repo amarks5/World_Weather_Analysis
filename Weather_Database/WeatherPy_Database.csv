@@ -1,0 +1,690 @@
+City_ID,City,Country,Date,Lat,Lng,Overall Weather,Weather Description,Max Temp,Humidity,Cloudiness,Wind Speed,Rain Inches (last 3 hrs),Snow Inches (last 3 hrs)
+0,Rikitea,PF,2021-06-25 15:23:06,-23.1203,-134.9692,Clouds,few clouds,74.03,77,14,3.6,0,0
+1,Bluff,NZ,2021-06-25 15:23:07,-46.6,168.3333,Clouds,overcast clouds,48.79,91,90,6.33,0,0
+2,Albany,US,2021-06-25 15:22:40,42.6001,-73.9662,Clouds,overcast clouds,75.61,54,100,4.47,0,0
+3,Arman,RU,2021-06-25 15:23:07,59.7,150.1667,Clouds,scattered clouds,48.45,88,45,2.17,0,0
+4,Mglin,RU,2021-06-25 15:14:51,53.0591,32.8475,Clear,clear sky,87.78,61,9,4.52,0,0
+5,Los Llanos De Aridane,ES,2021-06-25 15:23:08,28.6585,-17.9182,Clouds,broken clouds,69.12,70,75,9.22,0,0
+6,Nizwa,OM,2021-06-25 15:23:08,22.9333,57.5333,Clouds,overcast clouds,99.79,17,95,4.74,0,0
+7,Carnarvon,AU,2021-06-25 15:23:08,-24.8667,113.6333,Clouds,broken clouds,48.27,35,74,6.91,0,0
+8,Saiha,IN,2021-06-25 15:14:11,22.4833,92.9667,Rain,heavy intensity rain,71.8,99,66,1.48,0,0
+9,Kodiak,US,2021-06-25 15:23:09,57.79,-152.4072,Rain,light rain,49.51,76,1,18.41,0,0
+10,Beringovskiy,RU,2021-06-25 15:23:09,63.05,179.3167,Clouds,scattered clouds,42.19,74,29,12.97,0,0
+11,Barrow,US,2021-06-25 15:23:10,71.2906,-156.7887,Mist,mist,33.82,80,90,18.41,0,0
+12,Chokurdakh,RU,2021-06-25 15:23:10,70.6333,147.9167,Clear,clear sky,65.93,43,4,10.31,0,0
+13,Punta Arenas,CL,2021-06-25 15:23:10,-53.15,-70.9167,Clouds,overcast clouds,41.76,77,98,23.82,0,0
+14,Saskylakh,RU,2021-06-25 15:23:11,71.9167,114.0833,Rain,light rain,56.12,65,94,11.68,0,0
+15,Busselton,AU,2021-06-25 15:23:11,-33.65,115.3333,Clouds,scattered clouds,53.04,79,50,9.64,0,0
+16,Ushuaia,AR,2021-06-25 15:21:34,-54.8,-68.3,Drizzle,drizzle,40.66,100,90,23.02,0,0
+17,Lebu,CL,2021-06-25 15:23:11,-37.6167,-73.65,Clouds,broken clouds,51.48,70,84,10.65,0,0
+18,Port Alfred,ZA,2021-06-25 15:23:12,-33.5906,26.891,Clear,clear sky,67.39,61,9,11.03,0,0
+19,Mataura,NZ,2021-06-25 15:23:12,-46.1927,168.8643,Clouds,overcast clouds,48.47,98,87,0.92,0,0
+20,Cayenne,GF,2021-06-25 15:23:12,4.9333,-52.3333,Mist,mist,86.09,74,75,5.99,0,0
+21,Dikson,RU,2021-06-25 15:23:13,73.5069,80.5464,Clouds,broken clouds,30.94,94,74,12.62,0,0
+22,Acapulco,MX,2021-06-25 15:23:13,16.8634,-99.8901,Clouds,overcast clouds,75.02,94,90,11.5,0,0
+23,Najran,SA,2021-06-25 15:23:13,17.4924,44.1277,Clouds,overcast clouds,95.65,9,100,19.06,0,0
+24,Vaini,TO,2021-06-25 15:23:14,-21.2,-175.2,Clouds,scattered clouds,69.96,83,40,14.97,0,0
+25,Bredasdorp,ZA,2021-06-25 15:23:14,-34.5322,20.0403,Rain,light rain,60.12,67,15,18.41,0,0
+26,Lorengau,PG,2021-06-25 15:23:14,-2.0226,147.2712,Clouds,overcast clouds,80.51,79,100,6.02,0,0
+27,Cham,DE,2021-06-25 15:23:15,49.245,12.6825,Rain,light rain,70.12,87,100,4.23,0,0
+28,Puerto Ayora,EC,2021-06-25 15:23:15,-0.7393,-90.3518,Clouds,overcast clouds,75.16,91,92,5.01,0,0
+29,Susanville,US,2021-06-25 15:18:48,40.4163,-120.653,Clouds,few clouds,66.81,61,16,1.95,0,0
+30,Quthing,LS,2021-06-25 15:23:16,-30.4,27.7003,Clouds,few clouds,58.12,36,12,13.2,0,0
+31,Hamilton,US,2021-06-25 15:14:16,39.1834,-84.5333,Clouds,overcast clouds,76.24,80,90,3.0,0,0
+32,Atuona,PF,2021-06-25 15:23:16,-9.8,-139.0333,Rain,light rain,78.69,77,11,15.73,0,0
+33,Pisco,PE,2021-06-25 15:23:16,-13.7,-76.2167,Clouds,overcast clouds,64.45,72,90,4.61,0,0
+34,New Norfolk,AU,2021-06-25 15:23:17,-42.7826,147.0587,Clouds,overcast clouds,45.9,85,100,0.65,0,0
+35,Hasaki,JP,2021-06-25 15:13:58,35.7333,140.8333,Clouds,overcast clouds,68.4,81,100,2.91,0,0
+36,Hithadhoo,MV,2021-06-25 15:23:17,-0.6,73.0833,Clouds,overcast clouds,83.41,67,99,6.76,0,0
+37,Rio Branco,BR,2021-06-25 15:23:18,-9.9747,-67.81,Clouds,few clouds,86.61,62,20,5.75,0,0
+38,Aklavik,CA,2021-06-25 15:23:18,68.2191,-135.0107,Clouds,broken clouds,73.4,53,75,4.61,0,0
+39,Leh,IN,2021-06-25 15:23:18,34.1667,77.5833,Clouds,overcast clouds,57.87,31,87,4.12,0,0
+40,Kapaa,US,2021-06-25 15:23:19,22.0752,-159.319,Clouds,overcast clouds,75.52,84,90,1.01,0,0
+41,Naujamiestis,LT,2021-06-25 15:23:19,55.6869,24.1523,Clouds,scattered clouds,80.96,78,45,3.69,0,0
+42,Padang,ID,2021-06-25 15:23:19,-0.9492,100.3543,Rain,moderate rain,78.85,88,98,4.25,0,0
+43,Zaraza,VE,2021-06-25 15:23:20,9.3503,-65.3245,Clouds,overcast clouds,85.26,61,97,4.72,0,0
+44,Na Klang,TH,2021-06-25 15:23:20,17.3072,102.1889,Rain,light rain,81.32,82,100,1.05,0,0
+45,Portobelo,PA,2021-06-25 15:23:20,9.55,-79.65,Clouds,overcast clouds,86.95,73,100,6.85,0,0
+46,Hilo,US,2021-06-25 15:23:21,19.7297,-155.09,Clouds,overcast clouds,71.33,73,90,4.61,0,0
+47,Laguna,US,2021-06-25 15:23:21,38.421,-121.4238,Clear,clear sky,75.61,78,1,5.01,0,0
+48,Bonavista,CA,2021-06-25 15:14:09,48.6499,-53.1147,Clear,clear sky,64.11,66,1,7.7,0,0
+49,Castro,BR,2021-06-25 15:23:21,-24.7911,-50.0119,Clear,clear sky,72.25,56,3,4.32,0,0
+50,Thompson,CA,2021-06-25 15:23:22,55.7435,-97.8558,Clouds,broken clouds,60.96,82,75,9.22,0,0
+51,Cherskiy,RU,2021-06-25 15:23:22,68.75,161.3,Clouds,overcast clouds,46.8,64,99,6.98,0,0
+52,Limbang,MY,2021-06-25 15:13:36,4.75,115.0,Clouds,overcast clouds,80.71,96,100,2.62,0,0
+53,Garowe,SO,2021-06-25 15:23:23,8.4054,48.4845,Clouds,overcast clouds,89.38,31,100,20.74,0,0
+54,Itupiranga,BR,2021-06-25 15:23:23,-5.1347,-49.3267,Clouds,few clouds,86.32,49,12,3.87,0,0
+55,Port Lavaca,US,2021-06-25 15:23:23,28.615,-96.6261,Clouds,scattered clouds,90.28,71,40,13.8,0,0
+56,Codrington,AU,2021-06-25 15:23:24,-38.2667,141.9667,Clouds,overcast clouds,50.32,78,99,10.58,0,0
+57,Tiksi,RU,2021-06-25 15:23:24,71.6872,128.8694,Clouds,broken clouds,54.07,58,67,4.79,0,0
+58,Bac Lieu,VN,2021-06-25 15:23:24,9.285,105.7244,Clouds,overcast clouds,82.44,76,96,8.5,0,0
+59,Sakakah,SA,2021-06-25 15:23:25,29.9697,40.2064,Clear,clear sky,107.17,5,0,9.89,0,0
+60,Pemangkat,ID,2021-06-25 15:23:25,1.1667,108.9667,Clouds,overcast clouds,81.09,78,100,4.7,0,0
+61,Bengkulu,ID,2021-06-25 15:23:25,-3.8004,102.2655,Clouds,scattered clouds,78.06,87,26,4.81,0,0
+62,Makakilo City,US,2021-06-25 15:23:26,21.3469,-158.0858,Clear,clear sky,71.92,84,1,3.44,0,0
+63,Chuy,UY,2021-06-25 15:23:26,-33.6971,-53.4616,Clear,clear sky,57.45,63,9,8.25,0,0
+64,Hermanus,ZA,2021-06-25 15:23:26,-34.4187,19.2345,Rain,light rain,57.79,80,55,31.85,0,0
+65,Anadyr,RU,2021-06-25 15:23:27,64.75,177.4833,Clear,clear sky,50.5,57,0,4.0,0,0
+66,Waddan,LY,2021-06-25 15:23:27,29.1614,16.139,Clear,clear sky,105.89,8,0,11.56,0,0
+67,Saint George,US,2021-06-25 15:20:08,37.1041,-113.5841,Clear,clear sky,83.43,30,2,1.99,0,0
+68,Saldanha,ZA,2021-06-25 15:23:28,-33.0117,17.9442,Rain,light rain,60.85,75,3,26.28,0,0
+69,Wanning,CN,2021-06-25 15:14:00,18.8003,110.3967,Clouds,overcast clouds,81.93,91,98,10.11,0,0
+70,Dzhebariki-Khaya,RU,2021-06-25 15:23:28,62.2167,135.8,Clouds,broken clouds,60.03,74,63,6.35,0,0
+71,Camapua,BR,2021-06-25 15:23:28,-19.5314,-54.0439,Clouds,scattered clouds,88.9,26,48,7.2,0,0
+72,Hobart,AU,2021-06-25 15:18:53,-42.8794,147.3294,Clouds,overcast clouds,46.26,96,90,5.75,0,0
+73,Port Elizabeth,ZA,2021-06-25 15:23:29,-33.918,25.5701,Clear,clear sky,69.1,48,0,2.3,0,0
+74,Okhotsk,RU,2021-06-25 15:14:48,59.3833,143.3,Clouds,scattered clouds,51.71,80,43,3.69,0,0
+75,Dingle,PH,2021-06-25 15:23:29,10.9995,122.6711,Clouds,overcast clouds,76.6,91,99,2.1,0,0
+76,Nikolskoye,RU,2021-06-25 15:23:30,59.7035,30.7861,Clouds,few clouds,82.4,50,17,5.1,0,0
+77,Amealco,MX,2021-06-25 15:23:30,20.1833,-100.15,Clouds,few clouds,55.47,74,11,5.17,0,0
+78,Turukhansk,RU,2021-06-25 15:23:30,65.8167,87.9833,Rain,light rain,53.01,49,100,18.79,0,0
+79,Tecoanapa,MX,2021-06-25 15:13:57,16.5167,-98.75,Clouds,overcast clouds,77.72,86,100,5.91,0,0
+80,Bereda,ES,2021-06-25 15:23:31,43.2686,-7.5406,Clear,clear sky,76.41,71,9,6.55,0,0
+81,Hisua,IN,2021-06-25 15:23:31,24.8333,85.4167,Clouds,overcast clouds,78.98,63,100,5.93,0,0
+82,Georgetown,MY,2021-06-25 15:23:31,5.4112,100.3354,Rain,moderate rain,82.35,85,20,1.01,0,0
+83,Sorong,ID,2021-06-25 15:21:12,-0.8833,131.25,Rain,light rain,81.16,78,100,5.21,0,0
+84,Raudeberg,NO,2021-06-25 15:13:36,61.9875,5.1352,Clouds,overcast clouds,65.07,86,98,26.93,0,0
+85,Puerto Ayacucho,VE,2021-06-25 15:23:32,5.6639,-67.6236,Clouds,overcast clouds,78.28,79,96,4.0,0,0
+86,Bay Roberts,CA,2021-06-25 15:23:32,47.5999,-53.2648,Clear,clear sky,77.65,45,0,7.31,0,0
+87,North Bend,US,2021-06-25 15:14:27,43.4065,-124.2243,Clouds,overcast clouds,58.15,93,90,4.61,0,0
+88,Jamestown,US,2021-06-25 15:23:33,42.097,-79.2353,Clear,clear sky,77.29,60,1,5.99,0,0
+89,Arraial Do Cabo,BR,2021-06-25 15:23:33,-22.9661,-42.0278,Clear,clear sky,78.76,61,0,20.71,0,0
+90,Airai,TL,2021-06-25 15:23:33,-8.9266,125.4092,Clouds,few clouds,58.77,94,24,2.73,0,0
+91,Nabire,ID,2021-06-25 15:23:34,-3.3667,135.4833,Clouds,overcast clouds,75.69,91,100,3.38,0,0
+92,Sao Filipe,CV,2021-06-25 15:23:34,14.8961,-24.4956,Clear,clear sky,77.86,71,9,5.61,0,0
+93,Port Lincoln,AU,2021-06-25 15:23:34,-34.7333,135.8667,Clouds,overcast clouds,52.43,67,97,11.92,0,0
+94,Bethel,US,2021-06-25 15:23:35,41.3712,-73.414,Clouds,overcast clouds,71.89,83,90,0.0,0,0
+95,Alice Springs,AU,2021-06-25 15:23:35,-23.7,133.8833,Clear,clear sky,40.55,87,0,5.75,0,0
+96,San Cristobal,VE,2021-06-25 15:23:35,7.7669,-72.225,Clouds,overcast clouds,77.18,55,100,4.65,0,0
+97,Cravo Norte,CO,2021-06-25 15:23:36,6.3017,-70.2041,Clouds,overcast clouds,84.24,68,99,0.47,0,0
+98,Avarua,CK,2021-06-25 15:23:36,-21.2078,-159.775,Rain,moderate rain,75.25,88,40,6.91,0,0
+99,Lasem,ID,2021-06-25 15:23:36,-6.6922,111.4527,Clouds,broken clouds,78.73,83,65,6.04,0,0
+100,San Patricio,US,2021-06-25 15:23:37,28.017,-97.5169,Clear,clear sky,89.02,64,7,15.52,0,0
+101,Madera,US,2021-06-25 15:23:37,37.1666,-119.8343,Clear,clear sky,82.98,48,0,1.99,0,0
+102,Hokitika,NZ,2021-06-25 15:23:38,-42.7167,170.9667,Clouds,overcast clouds,58.59,97,100,13.18,0,0
+103,Burnie,AU,2021-06-25 15:23:38,-41.0667,145.9167,Clouds,few clouds,47.91,87,22,7.78,0,0
+104,Aberdeen,GB,2021-06-25 15:23:38,57.1437,-2.0981,Clouds,overcast clouds,52.29,88,90,18.41,0,0
+105,Doha,QA,2021-06-25 15:23:39,25.2867,51.5333,Clear,clear sky,107.91,33,0,6.91,0,0
+106,Tilichiki,RU,2021-06-25 15:23:39,60.4667,166.1,Clouds,scattered clouds,47.17,90,34,0.45,0,0
+107,Ribeira Grande,PT,2021-06-25 15:23:39,38.5167,-28.7,Clouds,few clouds,72.0,68,20,11.5,0,0
+108,Esperance,AU,2021-06-25 15:23:40,-33.8667,121.9,Clear,clear sky,51.57,66,0,9.66,0,0
+109,Lagoa,PT,2021-06-25 15:23:40,39.05,-27.9833,Clear,clear sky,66.92,75,1,3.42,0,0
+110,Havre-Saint-Pierre,CA,2021-06-25 15:23:40,50.2334,-63.5986,Clear,clear sky,68.59,59,1,6.91,0,0
+111,Saint-Philippe,RE,2021-06-25 15:23:41,-21.3585,55.7679,Clouds,few clouds,69.39,80,13,10.8,0,0
+112,Ponta Do Sol,PT,2021-06-25 15:23:41,32.6667,-17.1,Clear,clear sky,73.71,60,5,2.46,0,0
+113,Saint Anthony,US,2021-06-25 15:14:05,45.0205,-93.218,Clear,clear sky,79.9,47,1,5.75,0,0
+114,Calabozo,VE,2021-06-25 15:23:41,8.9242,-67.4293,Clouds,broken clouds,82.35,76,83,4.79,0,0
+115,Kudahuvadhoo,MV,2021-06-25 15:21:15,2.6708,72.8944,Clouds,overcast clouds,83.21,73,100,11.72,0,0
+116,Geraldton,AU,2021-06-25 15:23:42,-28.7667,114.6,Clear,clear sky,45.01,87,10,12.66,0,0
+117,San Carlos,VE,2021-06-25 15:22:45,9.6612,-68.5827,Clouds,broken clouds,83.05,72,66,3.38,0,0
+118,Husavik,IS,2021-06-25 15:23:42,66.0449,-17.3389,Rain,moderate rain,60.71,52,100,11.81,0,0
+119,Varzea Da Palma,BR,2021-06-25 15:23:43,-17.5981,-44.7308,Clear,clear sky,85.73,26,3,3.56,0,0
+120,Ayacucho,PE,2021-06-25 15:23:43,-13.1583,-74.2239,Clear,clear sky,60.66,36,0,3.44,0,0
+121,Te Anau,NZ,2021-06-25 15:23:43,-45.4167,167.7167,Clouds,broken clouds,47.93,93,83,1.59,0,0
+122,Seydi,TM,2021-06-25 15:23:44,39.4816,62.9137,Clear,clear sky,88.66,8,0,13.0,0,0
+123,Verkhoyansk,RU,2021-06-25 15:23:44,67.5447,133.385,Clouds,broken clouds,64.65,47,59,2.95,0,0
+124,Mar Del Plata,AR,2021-06-25 15:23:44,-38.0023,-57.5575,Clear,clear sky,60.01,58,0,3.0,0,0
+125,Novyy Urgal,RU,2021-06-25 15:23:45,51.0736,132.5642,Clouds,overcast clouds,59.68,96,100,2.64,0,0
+126,Dalvik,IS,2021-06-25 15:23:45,65.9702,-18.5286,Clouds,overcast clouds,60.73,57,99,16.04,0,0
+127,Provideniya,RU,2021-06-25 15:23:45,64.3833,-173.3,Clouds,overcast clouds,47.01,70,90,3.67,0,0
+128,Roald,NO,2021-06-25 15:23:46,62.5833,6.1333,Clouds,broken clouds,60.17,82,75,20.71,0,0
+129,Warwick,US,2021-06-25 15:21:12,41.7001,-71.4162,Fog,fog,72.27,94,90,4.61,0,0
+130,Merauke,ID,2021-06-25 15:23:46,-8.4667,140.3333,Clouds,scattered clouds,76.06,81,34,14.27,0,0
+131,Hauterive,FR,2021-06-25 15:23:46,46.0901,3.4459,Clear,clear sky,73.02,47,5,2.66,0,0
+132,Khani,GE,2021-06-25 15:23:47,41.9563,42.9566,Clouds,scattered clouds,67.57,76,27,5.5,0,0
+133,Anaconda,US,2021-06-25 15:23:47,46.1285,-112.9423,Clouds,overcast clouds,63.97,68,93,1.03,0,0
+134,Khatanga,RU,2021-06-25 15:23:47,71.9667,102.5,Clouds,overcast clouds,50.63,46,100,13.31,0,0
+135,Huarmey,PE,2021-06-25 15:23:48,-10.0681,-78.1522,Clouds,overcast clouds,66.34,75,91,8.21,0,0
+136,Saint-Augustin,CA,2021-06-25 15:23:48,51.226,-58.6502,Clouds,overcast clouds,68.18,55,91,21.85,0,0
+137,Dunedin,NZ,2021-06-25 15:23:48,-45.8742,170.5036,Clouds,overcast clouds,51.8,91,100,1.01,0,0
+138,Tasiilaq,GL,2021-06-25 15:23:49,65.6145,-37.6368,Clouds,scattered clouds,57.36,58,30,11.63,0,0
+139,Bambous Virieux,MU,2021-06-25 15:23:49,-20.3428,57.7575,Rain,light rain,73.22,68,75,5.75,0,0
+140,Victoria,HK,2021-06-25 15:19:29,22.2855,114.1577,Clouds,overcast clouds,82.38,92,100,1.01,0,0
+141,Kindu,CD,2021-06-25 15:23:49,-2.95,25.95,Clouds,broken clouds,86.76,45,75,2.48,0,0
+142,Port Macquarie,AU,2021-06-25 15:23:50,-31.4333,152.9167,Clouds,scattered clouds,55.89,68,37,7.72,0,0
+143,Walvis Bay,NA,2021-06-25 15:23:50,-22.9575,14.5053,Clear,clear sky,72.55,46,0,12.66,0,0
+144,Iqaluit,CA,2021-06-25 15:23:50,63.7506,-68.5145,Rain,light rain,37.13,86,90,13.0,0,0
+145,Shirokiy,RU,2021-06-25 15:23:51,49.758,129.523,Clouds,few clouds,66.31,69,13,7.9,0,0
+146,Nioro,GM,2021-06-25 15:23:51,13.35,-15.75,Clouds,overcast clouds,89.87,51,100,8.12,0,0
+147,Longyearbyen,SJ,2021-06-25 15:23:51,78.2186,15.6401,Clouds,overcast clouds,37.24,87,90,6.91,0,0
+148,Yellowknife,CA,2021-06-25 15:23:52,62.456,-114.3525,Clouds,broken clouds,63.12,59,75,6.91,0,0
+149,Kutum,SD,2021-06-25 15:23:52,14.2,24.6667,Clouds,few clouds,95.5,12,24,14.2,0,0
+150,Vestmannaeyjar,IS,2021-06-25 15:23:53,63.4427,-20.2734,Clouds,overcast clouds,50.99,87,90,18.41,0,0
+151,Havre,FR,2021-06-25 15:23:53,49.5833,0.3333,Rain,light rain,61.48,94,75,9.22,0,0
+152,Hofn,IS,2021-06-25 15:23:54,64.2539,-15.2082,Haze,haze,51.82,82,75,24.16,0,0
+153,Mareeba,AU,2021-06-25 15:23:54,-17.0,145.4333,Clouds,overcast clouds,66.92,91,100,1.99,0,0
+154,Eureka,US,2021-06-25 15:23:54,40.8021,-124.1637,Clouds,overcast clouds,58.19,92,95,1.68,0,0
+155,Cape Town,ZA,2021-06-25 15:22:09,-33.9258,18.4232,Rain,heavy intensity rain,60.12,81,75,4.0,0,0
+156,Mnogovershinnyy,RU,2021-06-25 15:23:55,53.9353,139.9242,Clouds,scattered clouds,44.42,90,36,1.92,0,0
+157,Yeniseysk,RU,2021-06-25 15:14:57,58.4497,92.1703,Clouds,broken clouds,53.01,93,78,4.92,0,0
+158,Tual,ID,2021-06-25 15:23:55,-5.6667,132.75,Clouds,scattered clouds,80.76,80,46,15.23,0,0
+159,Sobolevo,RU,2021-06-25 15:23:56,54.4299,31.8996,Clouds,few clouds,86.56,64,24,6.11,0,0
+160,Atrauli,IN,2021-06-25 15:23:56,28.0333,78.2833,Clouds,few clouds,98.89,19,18,6.46,0,0
+161,East London,ZA,2021-06-25 15:23:56,-33.0153,27.9116,Clear,clear sky,65.34,82,0,9.22,0,0
+162,Port Hedland,AU,2021-06-25 15:23:57,-20.3167,118.5667,Clouds,few clouds,55.45,54,18,10.36,0,0
+163,Grand Gaube,MU,2021-06-25 15:23:57,-20.0064,57.6608,Clear,clear sky,73.38,63,7,5.01,0,0
+164,Lompoc,US,2021-06-25 15:23:57,34.6391,-120.4579,Clouds,overcast clouds,67.57,82,90,0.0,0,0
+165,Sitka,US,2021-06-25 15:23:57,57.0531,-135.33,Mist,mist,55.29,94,90,4.61,0,0
+166,Kahului,US,2021-06-25 15:21:39,20.8947,-156.47,Clear,clear sky,72.84,82,1,5.75,0,0
+167,Monticello,US,2021-06-25 15:23:58,45.3055,-93.7941,Clear,clear sky,80.64,53,1,3.44,0,0
+168,Huainan,CN,2021-06-25 15:23:58,32.6264,116.9969,Rain,light rain,75.54,76,100,8.95,0,0
+169,Olinda,BR,2021-06-25 15:23:59,-8.0089,-34.8553,Clouds,scattered clouds,80.33,65,40,17.27,0,0
+170,Taoudenni,ML,2021-06-25 15:21:09,22.6783,-3.9836,Clear,clear sky,115.39,6,3,6.69,0,0
+171,Cabo San Lucas,MX,2021-06-25 15:20:40,22.8909,-109.9124,Clear,clear sky,86.81,61,1,0.0,0,0
+172,Isangel,VU,2021-06-25 15:23:59,-19.55,169.2667,Clouds,scattered clouds,72.72,79,44,14.92,0,0
+173,Oistins,BB,2021-06-25 15:24:00,13.0667,-59.5333,Clouds,scattered clouds,86.09,62,40,18.41,0,0
+174,Guangyuan,CN,2021-06-25 15:24:00,32.442,105.823,Clouds,overcast clouds,71.31,90,100,0.74,0,0
+175,Banda Aceh,ID,2021-06-25 15:14:28,5.5577,95.3222,Clouds,overcast clouds,80.73,79,97,12.03,0,0
+176,Parksville,CA,2021-06-25 15:24:00,49.3163,-124.3195,Clouds,broken clouds,75.96,68,55,24.16,0,0
+177,Athabasca,CA,2021-06-25 15:24:01,54.7169,-113.2854,Clouds,overcast clouds,70.21,70,95,9.62,0,0
+178,Calbuco,CL,2021-06-25 15:24:01,-41.768,-73.1273,Rain,light rain,46.47,67,52,7.45,0,0
+179,Lata,PT,2021-06-25 15:24:01,40.1629,-8.3327,Clouds,overcast clouds,91.35,44,93,10.27,0,0
+180,Halmaj,HU,2021-06-25 15:24:02,48.25,21.0,Clear,clear sky,90.45,37,7,13.13,0,0
+181,Bensonville,LR,2021-06-25 15:24:02,6.4461,-10.6125,Rain,moderate rain,81.95,77,96,5.32,0,0
+182,Parry Sound,CA,2021-06-25 15:24:03,45.3501,-80.033,Clouds,overcast clouds,70.21,88,100,8.86,0,0
+183,Rocha,UY,2021-06-25 15:24:03,-34.4833,-54.3333,Clouds,scattered clouds,58.59,59,40,11.16,0,0
+184,Bungu,TZ,2021-06-25 15:24:03,-7.6337,39.0582,Clouds,few clouds,73.2,70,18,6.91,0,0
+185,Necochea,AR,2021-06-25 15:24:03,-38.5473,-58.7368,Clouds,scattered clouds,57.04,52,30,16.11,0,0
+186,Kruisfontein,ZA,2021-06-25 15:24:04,-34.0033,24.7314,Clear,clear sky,66.88,52,0,10.13,0,0
+187,Boa Vista,BR,2021-06-25 15:23:49,2.8197,-60.6733,Clouds,broken clouds,85.98,58,75,10.36,0,0
+188,Caloundra,AU,2021-06-25 15:24:04,-26.8,153.1333,Rain,light rain,67.89,96,100,8.59,0,0
+189,Riberalta,BO,2021-06-25 15:24:05,-10.9833,-66.1,Clouds,scattered clouds,84.4,65,37,9.22,0,0
+190,Srednekolymsk,RU,2021-06-25 15:24:05,67.45,153.6833,Clouds,broken clouds,58.84,52,79,7.43,0,0
+191,Amga,RU,2021-06-25 15:24:05,60.8953,131.9608,Clouds,few clouds,58.3,73,14,3.42,0,0
+192,Montbrison,FR,2021-06-25 15:24:06,45.6667,4.0833,Clouds,few clouds,71.94,53,12,5.01,0,0
+193,Bhabua,IN,2021-06-25 15:24:06,25.05,83.6167,Rain,very heavy rain,79.29,93,100,8.37,0,0
+194,Qaanaaq,GL,2021-06-25 15:24:06,77.484,-69.3632,Clouds,few clouds,40.03,77,21,3.42,0,0
+195,Markova,UA,2021-06-25 15:24:07,48.6758,24.4138,Rain,heavy intensity rain,69.39,97,100,7.47,0,0
+196,Mahabaleshwar,IN,2021-06-25 15:24:07,17.9167,73.6667,Clouds,overcast clouds,60.37,92,100,3.6,0,0
+197,Grand-Santi,GF,2021-06-25 15:14:32,4.25,-54.3833,Clear,clear sky,87.82,51,7,4.9,0,0
+198,Orodara,BF,2021-06-25 15:24:08,10.9492,-4.9342,Clouds,overcast clouds,79.18,39,100,12.03,0,0
+199,Oranjestad,AW,2021-06-25 15:24:08,12.524,-70.027,Clouds,scattered clouds,87.75,62,40,18.41,0,0
+200,Guanica,PR,2021-06-25 15:24:08,17.9716,-66.908,Clouds,overcast clouds,88.5,71,100,13.0,0,0
+201,Moranbah,AU,2021-06-25 15:24:09,-22.0016,148.0466,Clouds,scattered clouds,62.83,85,38,4.54,0,0
+202,Tuatapere,NZ,2021-06-25 15:24:09,-46.1333,167.6833,Clouds,broken clouds,48.81,94,51,1.79,0,0
+203,Kousseri,CM,2021-06-25 15:24:09,12.0769,15.0306,Clouds,few clouds,100.36,32,20,2.3,0,0
+204,Muros,ES,2021-06-25 15:14:23,42.7762,-9.0603,Clouds,broken clouds,85.68,57,69,5.32,0,0
+205,Kichera,RU,2021-06-25 15:24:10,55.9375,110.0997,Clouds,overcast clouds,59.36,88,85,1.32,0,0
+206,Alyangula,AU,2021-06-25 15:24:10,-13.8483,136.4192,Clouds,overcast clouds,74.21,82,100,15.35,0,0
+207,Polunochnoye,RU,2021-06-25 15:24:10,60.8697,60.4153,Clouds,overcast clouds,69.87,73,100,2.98,0,0
+208,Saint Austell,GB,2021-06-25 15:24:11,50.3383,-4.7658,Clouds,scattered clouds,60.44,67,40,16.11,0,0
+209,Marrakesh,MA,2021-06-25 15:24:02,31.6315,-8.0083,Clear,clear sky,95.07,28,0,5.75,0,0
+210,Pierre,US,2021-06-25 15:24:11,44.3683,-100.351,Clouds,overcast clouds,72.99,56,90,5.75,0,0
+211,Torbay,CA,2021-06-25 15:24:11,47.6666,-52.7314,Clear,clear sky,76.87,52,1,9.22,0,0
+212,Kerema,PG,2021-06-25 15:24:12,-7.9631,145.7785,Clouds,overcast clouds,77.23,90,100,9.35,0,0
+213,Pevek,RU,2021-06-25 15:24:12,69.7008,170.3133,Clear,clear sky,32.41,85,3,2.01,0,0
+214,Mayskiy,RU,2021-06-25 15:24:13,47.6931,40.1025,Clouds,scattered clouds,89.44,41,32,2.48,0,0
+215,Upernavik,GL,2021-06-25 15:24:13,72.7868,-56.1549,Rain,light rain,39.52,95,100,16.13,0,0
+216,Tibati,CM,2021-06-25 15:24:13,6.4667,12.6333,Rain,light rain,81.28,63,90,2.01,0,0
+217,Brae,GB,2021-06-25 15:24:14,60.3964,-1.353,Clouds,scattered clouds,53.51,74,42,20.09,0,0
+218,Faanui,PF,2021-06-25 15:24:14,-16.4833,-151.75,Rain,light rain,80.47,80,8,14.03,0,0
+219,Corner Brook,CA,2021-06-25 15:24:14,48.9667,-57.9484,Clear,clear sky,75.36,36,3,12.8,0,0
+220,Cidreira,BR,2021-06-25 15:24:15,-30.1811,-50.2056,Clear,clear sky,62.55,60,0,10.83,0,0
+221,Ambulu,ID,2021-06-25 15:14:32,-8.345,113.6058,Rain,light rain,75.85,91,100,4.14,0,0
+222,Caconda,AO,2021-06-25 15:24:15,-13.7333,15.0667,Clear,clear sky,78.87,17,8,2.57,0,0
+223,Poum,NC,2021-06-25 15:14:20,-20.2333,164.0167,Clouds,overcast clouds,72.68,70,95,14.56,0,0
+224,Menomonie,US,2021-06-25 15:24:00,44.8755,-91.9193,Clear,clear sky,77.4,53,1,6.91,0,0
+225,Hami,CN,2021-06-25 15:24:16,42.8,93.45,Clouds,overcast clouds,84.22,20,99,25.68,0,0
+226,Tigil,RU,2021-06-25 15:24:16,57.8,158.6667,Clouds,overcast clouds,42.69,97,100,3.98,0,0
+227,San Juan,AR,2021-06-25 15:14:34,-31.5375,-68.5364,Clear,clear sky,55.6,30,10,5.68,0,0
+228,Sola,VU,2021-06-25 15:24:16,-13.8833,167.55,Clouds,broken clouds,79.47,69,75,11.5,0,0
+229,Ushtobe,KZ,2021-06-25 15:24:17,45.2514,77.9838,Clouds,overcast clouds,63.95,33,100,7.65,0,0
+230,Deputatskiy,RU,2021-06-25 15:24:17,69.3,139.9,Clear,clear sky,59.45,44,5,2.26,0,0
+231,Palauig,PH,2021-06-25 15:14:59,15.435,119.9045,Clouds,overcast clouds,80.87,79,99,4.7,0,0
+232,Pangnirtung,CA,2021-06-25 15:24:17,66.1451,-65.7125,Drizzle,light intensity drizzle,37.4,100,90,11.5,0,0
+233,Khandyga,RU,2021-06-25 15:24:18,62.6667,135.6,Clouds,few clouds,65.73,52,14,9.33,0,0
+234,Wanaka,NZ,2021-06-25 15:24:18,-44.7,169.15,Clouds,overcast clouds,46.11,99,87,5.01,0,0
+235,Saint-Andre-Avellin,CA,2021-06-25 15:24:19,45.7168,-75.066,Clouds,overcast clouds,72.09,60,100,11.3,0,0
+236,Jambi,ID,2021-06-25 15:24:19,-1.6,103.6167,Clouds,overcast clouds,76.6,91,94,2.62,0,0
+237,Lima,PE,2021-06-25 15:24:06,-12.0432,-77.0282,Clouds,overcast clouds,66.9,80,90,3.44,0,0
+238,Butaritari,KI,2021-06-25 15:24:19,3.0707,172.7902,Rain,light rain,82.38,78,99,15.79,0,0
+239,Fushun,CN,2021-06-25 15:24:20,41.8558,123.9233,Rain,light rain,65.91,94,100,7.94,0,0
+240,Meulaboh,ID,2021-06-25 15:24:20,4.1363,96.1285,Clouds,overcast clouds,74.97,93,100,9.1,0,0
+241,Bontang,ID,2021-06-25 15:24:20,0.1333,117.5,Clouds,broken clouds,76.84,88,73,3.27,0,0
+242,Zhuhai,CN,2021-06-25 15:24:21,22.2769,113.5678,Rain,light rain,83.98,89,40,9.22,0,0
+243,Aguimes,ES,2021-06-25 15:24:21,27.9054,-15.4461,Clouds,few clouds,72.23,53,20,23.02,0,0
+244,Nemuro,JP,2021-06-25 15:24:21,43.3236,145.575,Clouds,overcast clouds,54.63,99,99,13.2,0,0
+245,Sao Felix Do Xingu,BR,2021-06-25 15:22:01,-6.6447,-51.995,Clouds,few clouds,88.97,43,22,4.61,0,0
+246,Bria,CF,2021-06-25 15:24:22,6.5423,21.9863,Clouds,broken clouds,87.12,56,60,1.77,0,0
+247,Gamba,GA,2021-06-25 15:24:22,-2.65,10.0,Clouds,scattered clouds,76.96,77,50,10.09,0,0
+248,Igboho,NG,2021-06-25 15:24:22,8.8333,3.75,Clouds,overcast clouds,86.02,53,100,0.29,0,0
+249,Tuktoyaktuk,CA,2021-06-25 15:24:23,69.4541,-133.0374,Clouds,scattered clouds,62.6,72,40,16.11,0,0
+250,Nha Trang,VN,2021-06-25 15:19:54,12.25,109.1833,Clouds,broken clouds,84.2,82,72,5.14,0,0
+251,Marathon,US,2021-06-25 15:24:23,44.9,-89.7668,Clouds,overcast clouds,73.96,90,90,8.05,0,0
+252,Yulara,AU,2021-06-25 15:24:24,-25.2406,130.9889,Clear,clear sky,46.24,71,0,8.05,0,0
+253,Tamandare,BR,2021-06-25 15:24:24,-8.7597,-35.1047,Clouds,scattered clouds,79.38,71,37,13.44,0,0
+254,Severo-Kurilsk,RU,2021-06-25 15:24:24,50.6789,156.125,Rain,moderate rain,44.17,98,100,1.39,0,0
+255,Linhares,BR,2021-06-25 15:24:25,-19.3911,-40.0722,Clouds,few clouds,80.69,44,24,3.0,0,0
+256,Vila Franca Do Campo,PT,2021-06-25 15:24:25,37.7167,-25.4333,Clouds,overcast clouds,70.21,88,100,16.24,0,0
+257,Dandong,CN,2021-06-25 15:24:25,40.1292,124.3947,Rain,moderate rain,64.0,99,100,5.82,0,0
+258,Suntar,RU,2021-06-25 15:14:43,62.1444,117.6319,Clear,clear sky,63.48,77,1,2.95,0,0
+259,Monrovia,LR,2021-06-25 15:21:05,6.3005,-10.7969,Rain,light rain,82.17,72,100,6.89,0,0
+260,Mehran,IR,2021-06-25 15:24:26,33.1222,46.1646,Clear,clear sky,110.68,6,0,21.43,0,0
+261,Cap Malheureux,MU,2021-06-25 15:24:26,-19.9842,57.6142,Clear,clear sky,73.47,63,5,5.01,0,0
+262,Magadan,RU,2021-06-25 15:20:33,59.5667,150.8,Clouds,few clouds,47.08,90,23,3.15,0,0
+263,Kefamenanu,ID,2021-06-25 15:24:27,-9.4467,124.4781,Clouds,overcast clouds,72.21,91,88,3.47,0,0
+264,Quelimane,MZ,2021-06-25 15:24:27,-17.8786,36.8883,Clouds,few clouds,76.95,69,20,8.05,0,0
+265,La Ronge,CA,2021-06-25 15:24:27,55.1001,-105.2842,Clouds,overcast clouds,70.05,52,90,6.91,0,0
+266,Takahashi,JP,2021-06-25 15:24:28,34.7833,133.6167,Clouds,scattered clouds,69.75,95,37,3.4,0,0
+267,Maiduguri,NG,2021-06-25 15:24:28,11.8464,13.1603,Clouds,broken clouds,101.44,23,56,6.78,0,0
+268,Kholodnyy,RU,2021-06-25 15:24:29,62.7167,147.95,Clouds,overcast clouds,52.39,70,100,4.12,0,0
+269,Mehamn,NO,2021-06-25 15:24:29,71.0357,27.8492,Clouds,scattered clouds,53.55,62,40,10.36,0,0
+270,Alirajpur,IN,2021-06-25 15:24:29,22.3031,74.3546,Clouds,broken clouds,78.71,81,52,4.59,0,0
+271,Belmonte,BR,2021-06-25 15:24:30,-15.8631,-38.8828,Clouds,few clouds,80.6,52,13,6.85,0,0
+272,Sarkand,KZ,2021-06-25 15:24:30,45.41,79.9186,Clouds,overcast clouds,57.27,67,100,2.75,0,0
+273,Upata,VE,2021-06-25 15:24:30,8.0086,-62.3989,Clouds,few clouds,83.19,71,21,4.52,0,0
+274,Shalinskoye,RU,2021-06-25 15:24:31,55.7228,93.7594,Clouds,overcast clouds,53.31,81,100,5.86,0,0
+275,Tucuman,AR,2021-06-25 15:24:31,-26.8241,-65.2226,Clouds,broken clouds,62.6,63,75,8.05,0,0
+276,Erie,US,2021-06-25 15:24:31,42.7667,-78.6664,Clouds,overcast clouds,81.19,58,100,1.99,0,0
+277,Shangrao,CN,2021-06-25 15:20:30,28.4532,117.9686,Clouds,overcast clouds,77.27,87,100,2.17,0,0
+278,Votkinsk,RU,2021-06-25 15:24:32,57.0486,53.9872,Clouds,overcast clouds,82.78,92,93,9.22,0,0
+279,Celestun,MX,2021-06-25 15:24:32,20.8667,-90.4,Clouds,few clouds,83.46,62,14,6.67,0,0
+280,Goderich,CA,2021-06-25 15:24:33,43.7501,-81.7165,Clouds,overcast clouds,73.2,83,100,8.05,0,0
+281,Ambovombe,MG,2021-06-25 15:24:33,-25.1667,46.0833,Clear,clear sky,67.42,61,7,8.12,0,0
+282,Mitsamiouli,KM,2021-06-25 15:24:33,-11.3847,43.2844,Clear,clear sky,77.22,64,5,4.65,0,0
+283,Tyrma,RU,2021-06-25 15:24:34,50.0833,132.1667,Clouds,overcast clouds,60.78,98,100,1.66,0,0
+284,Kupang,ID,2021-06-25 15:24:34,-10.1667,123.5833,Clouds,broken clouds,78.15,85,53,10.13,0,0
+285,Bayji,IQ,2021-06-25 15:24:34,34.9311,43.487,Clear,clear sky,108.19,8,0,13.6,0,0
+286,Nakhon Sawan,TH,2021-06-25 15:24:35,15.7,100.0833,Clouds,overcast clouds,84.7,59,100,4.9,0,0
+287,Kieta,PG,2021-06-25 15:24:35,-6.2167,155.6333,Clouds,overcast clouds,78.24,83,100,5.46,0,0
+288,Shimoda,JP,2021-06-25 15:24:35,34.6667,138.95,Clouds,overcast clouds,73.17,82,100,4.03,0,0
+289,Bathsheba,BB,2021-06-25 15:24:36,13.2167,-59.5167,Clouds,scattered clouds,86.61,62,40,18.41,0,0
+290,Kenai,US,2021-06-25 15:24:36,60.5544,-151.2583,Clouds,overcast clouds,50.09,96,90,4.61,0,0
+291,Port Augusta,AU,2021-06-25 15:24:37,-32.5,137.7667,Clouds,overcast clouds,48.7,76,91,8.23,0,0
+292,Aripuana,BR,2021-06-25 15:24:37,-9.1667,-60.6333,Clear,clear sky,91.0,34,1,2.42,0,0
+293,Tautira,PF,2021-06-25 15:24:37,-17.7333,-149.15,Clouds,few clouds,78.82,80,15,15.03,0,0
+294,Sabang,ID,2021-06-25 15:24:38,5.8933,95.3214,Clouds,overcast clouds,83.21,77,96,17.78,0,0
+295,Traverse City,US,2021-06-25 15:24:38,44.7631,-85.6206,Clouds,overcast clouds,73.83,78,90,5.75,0,0
+296,Siwan,IN,2021-06-25 15:24:38,26.2167,84.3667,Rain,moderate rain,87.57,69,97,4.36,0,0
+297,Kavieng,PG,2021-06-25 15:24:39,-2.5744,150.7967,Clouds,overcast clouds,82.13,75,99,9.55,0,0
+298,Thinadhoo,MV,2021-06-25 15:24:39,0.5333,72.9333,Clouds,overcast clouds,83.23,71,100,9.69,0,0
+299,Araouane,ML,2021-06-25 15:24:39,18.9048,-3.5265,Clear,clear sky,106.39,17,1,9.73,0,0
+300,Andenes,NO,2021-06-25 15:24:40,69.3143,16.1194,Clouds,broken clouds,50.07,76,75,11.5,0,0
+301,Sabzevar,IR,2021-06-25 15:24:40,36.2126,57.6819,Clouds,few clouds,90.68,14,20,20.71,0,0
+302,Yerbogachen,RU,2021-06-25 15:24:40,61.2767,108.0108,Clouds,overcast clouds,63.27,69,94,2.59,0,0
+303,Bocana De Paiwas,NI,2021-06-25 15:22:11,12.7857,-85.1227,Clouds,broken clouds,80.71,74,59,8.43,0,0
+304,Birin,NP,2021-06-25 15:24:41,26.8865,88.0718,Clouds,scattered clouds,64.78,93,42,2.42,0,0
+305,Lavrentiya,RU,2021-06-25 15:24:41,65.5833,-171.0,Clouds,overcast clouds,43.21,74,100,8.97,0,0
+306,La Union,PE,2021-06-25 15:24:42,-5.4,-80.75,Clouds,broken clouds,73.2,61,62,11.1,0,0
+307,Marzuq,YE,2021-06-25 15:24:42,14.4,46.4667,Clouds,overcast clouds,88.18,30,97,5.53,0,0
+308,Ancud,CL,2021-06-25 15:24:42,-41.8697,-73.8203,Clouds,scattered clouds,43.23,70,39,7.49,0,0
+309,Arlit,NE,2021-06-25 15:24:43,18.7369,7.3853,Clouds,broken clouds,107.83,10,58,5.19,0,0
+310,Souillac,MU,2021-06-25 15:24:43,-20.5167,57.5167,Clouds,broken clouds,73.36,68,75,5.75,0,0
+311,Eagle Pass,US,2021-06-25 15:24:43,28.7091,-100.4995,Clouds,overcast clouds,89.28,68,90,14.76,0,0
+312,Salalah,OM,2021-06-25 15:24:43,17.0151,54.0924,Clouds,broken clouds,80.69,89,75,6.91,0,0
+313,Mayo,US,2021-06-25 15:24:44,38.8876,-76.5119,Clear,clear sky,77.22,61,1,1.99,0,0
+314,Kirensk,RU,2021-06-25 15:24:44,57.7853,108.1119,Clouds,few clouds,61.34,73,18,1.21,0,0
+315,Forquilhinha,BR,2021-06-25 15:24:45,-28.7475,-49.4722,Clear,clear sky,68.0,56,0,3.2,0,0
+316,Ilulissat,GL,2021-06-25 15:24:45,69.2167,-51.1,Clouds,broken clouds,48.22,61,75,8.05,0,0
+317,Egvekinot,RU,2021-06-25 15:24:45,66.3167,-179.1667,Clouds,overcast clouds,38.53,77,99,10.22,0,0
+318,Tucumcari,US,2021-06-25 15:24:46,35.1717,-103.725,Clear,clear sky,81.95,31,1,5.82,0,0
+319,Alugan,PH,2021-06-25 15:24:46,12.2188,125.4808,Clouds,overcast clouds,81.21,79,86,5.61,0,0
+320,Tarnogskiy Gorodok,RU,2021-06-25 15:24:46,60.4997,43.5761,Clouds,broken clouds,80.56,57,81,6.93,0,0
+321,Fortuna,US,2021-06-25 15:24:47,40.5982,-124.1573,Clouds,overcast clouds,57.92,69,90,1.99,0,0
+322,Aginskoye,RU,2021-06-25 15:24:47,51.1,114.53,Clouds,scattered clouds,63.14,82,48,1.19,0,0
+323,Danilov,RU,2021-06-25 15:24:47,58.1908,40.1717,Clouds,scattered clouds,85.8,51,46,6.24,0,0
+324,Kaitangata,NZ,2021-06-25 15:24:48,-46.2817,169.8464,Clouds,overcast clouds,46.62,94,98,3.6,0,0
+325,Mikhaylovsk,RU,2021-06-25 15:24:48,45.1283,42.0256,Clear,clear sky,84.58,51,0,6.71,0,0
+326,Narsaq,GL,2021-06-25 15:24:48,60.9167,-46.05,Clouds,broken clouds,52.02,75,83,2.3,0,0
+327,Liverpool,GB,2021-06-25 15:24:49,53.4106,-2.9779,Clouds,overcast clouds,57.45,78,100,5.99,0,0
+328,Lamu,KE,2021-06-25 15:24:49,-2.2717,40.902,Clouds,scattered clouds,79.02,74,34,15.14,0,0
+329,Saint-Georges,GD,2021-06-25 15:24:49,12.0564,-61.7485,Clouds,few clouds,83.88,79,20,17.27,0,0
+330,Marsh Harbour,BS,2021-06-25 15:24:50,26.5412,-77.0636,Clouds,overcast clouds,82.17,72,97,14.74,0,0
+331,Aswan,EG,2021-06-25 15:14:53,24.0934,32.907,Clear,clear sky,106.16,11,0,15.03,0,0
+332,Baiyin,CN,2021-06-25 15:24:50,36.5583,104.2081,Clouds,scattered clouds,72.48,48,42,6.73,0,0
+333,Nouakchott,MR,2021-06-25 15:21:54,18.0858,-15.9785,Clouds,broken clouds,87.73,73,64,20.29,0,0
+334,Kaberamaido,UG,2021-06-25 15:24:51,1.7389,33.1594,Clouds,overcast clouds,78.87,55,100,2.51,0,0
+335,Namibe,AO,2021-06-25 15:24:51,-15.1961,12.1522,Clear,clear sky,74.8,62,6,9.93,0,0
+336,Vardo,NO,2021-06-25 15:24:52,70.3705,31.1107,Clouds,broken clouds,49.98,81,75,18.41,0,0
+337,Saint-Joseph,RE,2021-06-25 15:24:52,-21.3667,55.6167,Clouds,few clouds,68.38,77,24,9.78,0,0
+338,Teahupoo,PF,2021-06-25 15:24:52,-17.8333,-149.2667,Clouds,few clouds,73.36,80,16,15.82,0,0
+339,Dong Xoai,VN,2021-06-25 15:24:53,11.5333,106.9167,Clouds,broken clouds,75.78,95,64,4.88,0,0
+340,Hinesville,US,2021-06-25 15:24:53,31.8469,-81.5959,Clear,clear sky,82.58,60,1,9.22,0,0
+341,Ostersund,SE,2021-06-25 15:22:56,63.1792,14.6357,Clouds,overcast clouds,61.61,88,90,12.66,0,0
+342,Monroe,US,2021-06-25 15:21:42,43.1501,-77.6831,Clouds,broken clouds,80.33,60,75,10.36,0,0
+343,Ruteng,ID,2021-06-25 15:24:54,-8.6136,120.4721,Clouds,scattered clouds,62.46,95,27,1.16,0,0
+344,Mount Gambier,AU,2021-06-25 15:24:54,-37.8333,140.7667,Clouds,broken clouds,48.11,93,75,5.75,0,0
+345,Guerrero Negro,MX,2021-06-25 15:24:55,27.9769,-114.0611,Clouds,broken clouds,67.48,78,64,11.92,0,0
+346,Kirakira,SB,2021-06-25 15:24:55,-10.4544,161.9205,Clouds,overcast clouds,78.3,88,100,10.69,0,0
+347,Lalmohan,BD,2021-06-25 15:24:55,22.3384,90.7419,Clouds,few clouds,82.76,83,17,15.26,0,0
+348,Flinders,AU,2021-06-25 15:24:56,-34.5833,150.8552,Clouds,few clouds,53.2,74,22,1.99,0,0
+349,Nyaunglebin,MM,2021-06-25 15:24:56,17.95,96.7333,Clouds,overcast clouds,75.27,97,100,7.0,0,0
+350,Itaituba,BR,2021-06-25 15:21:39,-4.2761,-55.9836,Clouds,scattered clouds,91.56,55,40,2.86,0,0
+351,Dali,CN,2021-06-25 15:24:56,25.7,100.1833,Clouds,overcast clouds,66.4,90,100,4.38,0,0
+352,Talnakh,RU,2021-06-25 15:24:57,69.4865,88.3972,Clouds,overcast clouds,50.22,54,92,22.62,0,0
+353,Haines Junction,CA,2021-06-25 15:24:57,60.7522,-137.5108,Clouds,overcast clouds,58.95,55,99,3.44,0,0
+354,Edd,ER,2021-06-25 15:24:58,13.9297,41.6925,Clouds,overcast clouds,91.08,60,99,10.76,0,0
+355,Barabai,ID,2021-06-25 15:24:58,-2.5833,115.3833,Clouds,few clouds,72.84,95,13,2.01,0,0
+356,Popondetta,PG,2021-06-25 15:24:58,-8.7537,148.2534,Clouds,overcast clouds,72.66,97,100,3.31,0,0
+357,Machilipatnam,IN,2021-06-25 15:24:58,16.1667,81.1333,Clouds,scattered clouds,91.6,54,32,7.45,0,0
+358,Sorland,NO,2021-06-25 15:22:12,67.667,12.6934,Clouds,few clouds,49.86,72,23,9.31,0,0
+359,Bairiki,KI,2021-06-25 15:24:59,1.3292,172.9752,Rain,light rain,78.8,89,75,8.05,0,0
+360,Trelleborg,SE,2021-06-25 15:24:59,55.3751,13.1569,Clouds,overcast clouds,71.2,65,100,7.85,0,0
+361,Penzance,GB,2021-06-25 15:25:00,50.1186,-5.5371,Clouds,few clouds,60.01,72,20,16.11,0,0
+362,Kachug,RU,2021-06-25 15:25:00,53.9606,105.8817,Clouds,few clouds,60.15,66,12,2.08,0,0
+363,Phek,IN,2021-06-25 15:25:00,25.6667,94.5,Clouds,overcast clouds,63.07,98,100,1.34,0,0
+364,College,US,2021-06-25 15:25:01,64.8569,-147.8028,Rain,light rain,60.75,68,75,3.44,0,0
+365,Batemans Bay,AU,2021-06-25 15:25:01,-35.7167,150.1833,Clouds,overcast clouds,51.19,83,92,6.93,0,0
+366,Okato,NZ,2021-06-25 15:25:03,-39.2,173.8833,Clouds,overcast clouds,57.42,92,99,12.75,0,0
+367,Shahe,CN,2021-06-25 15:25:03,39.2708,113.5478,Clear,clear sky,67.42,70,6,5.77,0,0
+368,Pitsunda,GE,2021-06-25 15:25:03,43.1592,40.3378,Clouds,few clouds,77.18,84,18,9.22,0,0
+369,Norman Wells,CA,2021-06-25 15:25:04,65.282,-126.8329,Clouds,few clouds,69.84,52,20,4.61,0,0
+370,Ostrovnoy,RU,2021-06-25 15:25:04,68.0531,39.5131,Clouds,overcast clouds,55.44,79,99,9.98,0,0
+371,Harper,LR,2021-06-25 15:25:04,4.375,-7.7169,Rain,heavy intensity rain,75.0,94,100,7.07,0,0
+372,Steinbach,DE,2021-06-25 15:25:05,50.1667,8.5667,Clouds,few clouds,74.19,57,20,10.36,0,0
+373,Pombas,CV,2021-06-25 15:25:05,17.1503,-25.0201,Clouds,scattered clouds,76.78,74,35,15.05,0,0
+374,Kalabo,ZM,2021-06-25 15:25:05,-14.97,22.6814,Clear,clear sky,82.26,22,2,4.18,0,0
+375,Canatlan,MX,2021-06-25 15:25:06,24.5167,-104.7833,Clouds,scattered clouds,68.32,59,45,3.24,0,0
+376,Saint-Pierre,RE,2021-06-25 15:25:06,-21.3393,55.4781,Clouds,few clouds,69.48,81,20,8.05,0,0
+377,Port Hardy,CA,2021-06-25 15:25:06,50.6996,-127.4199,Clouds,few clouds,57.38,88,20,4.61,0,0
+378,Vysokogornyy,RU,2021-06-25 15:25:07,50.1167,139.15,Clouds,overcast clouds,59.41,99,100,2.46,0,0
+379,Yeppoon,AU,2021-06-25 15:25:07,-23.1333,150.7333,Clouds,overcast clouds,65.98,92,100,8.34,0,0
+380,Olafsvik,IS,2021-06-25 15:25:07,64.8945,-23.7142,Rain,light rain,49.5,95,100,29.15,0,0
+381,Shetpe,KZ,2021-06-25 15:25:08,44.1667,52.1167,Clouds,broken clouds,101.07,11,63,8.01,0,0
+382,Korla,CN,2021-06-25 15:25:08,41.7597,86.1469,Clouds,few clouds,78.6,23,16,16.51,0,0
+383,Bartica,GY,2021-06-25 15:25:08,6.4,-58.6167,Clouds,broken clouds,77.32,75,73,4.14,0,0
+384,Broome,US,2021-06-25 15:25:09,42.2506,-75.833,Clear,clear sky,76.06,61,1,1.99,0,0
+385,San Jose,US,2021-06-25 15:22:34,37.3394,-121.895,Clouds,overcast clouds,64.54,78,90,4.61,0,0
+386,Rassvet,RU,2021-06-25 15:25:09,46.8333,40.75,Clear,clear sky,91.38,52,7,6.71,0,0
+387,Kaduqli,SD,2021-06-25 15:25:10,11.0167,29.7167,Rain,heavy intensity rain,74.23,78,75,26.64,0,0
+388,Maniitsoq,GL,2021-06-25 15:25:10,65.4167,-52.9,Clouds,overcast clouds,43.32,79,100,9.75,0,0
+389,Ouadda,CF,2021-06-25 15:25:10,8.0777,22.4007,Clouds,broken clouds,88.23,48,75,4.56,0,0
+390,Owando,CG,2021-06-25 15:25:11,-0.4819,15.8999,Clouds,overcast clouds,89.26,41,93,3.44,0,0
+391,Fairbanks,US,2021-06-25 15:23:53,64.8378,-147.7164,Clouds,broken clouds,60.76,68,75,4.61,0,0
+392,Tiarei,PF,2021-06-25 15:25:11,-17.5333,-149.3333,Clouds,few clouds,78.82,79,15,14.09,0,0
+393,Kysyl-Syr,RU,2021-06-25 15:25:12,63.8986,122.7617,Clouds,few clouds,60.42,95,24,2.71,0,0
+394,Umm Kaddadah,SD,2021-06-25 15:25:12,13.6017,26.6876,Clouds,scattered clouds,100.8,17,34,8.68,0,0
+395,Beira,MZ,2021-06-25 15:25:12,-19.8436,34.8389,Clouds,few clouds,73.49,88,20,8.05,0,0
+396,Karak,JO,2021-06-25 15:25:13,31.1667,35.75,Clear,clear sky,86.72,22,0,9.78,0,0
+397,Erzin,TR,2021-06-25 15:25:13,36.9559,36.2,Clear,clear sky,90.12,66,0,9.62,0,0
+398,Kulachi,PK,2021-06-25 15:25:13,31.9286,70.4592,Clear,clear sky,104.63,16,1,4.97,0,0
+399,Freeport,US,2021-06-25 15:25:14,40.6576,-73.5832,Clouds,overcast clouds,77.97,76,90,3.0,0,0
+400,Naryan-Mar,RU,2021-06-25 15:25:14,67.6713,53.087,Clouds,scattered clouds,59.5,40,41,13.42,0,0
+401,Asau,RO,2021-06-25 15:25:14,46.4333,26.4,Clouds,broken clouds,85.28,87,71,9.22,0,0
+402,Mundo Nuevo,MX,2021-06-25 15:25:15,18.7,-95.5,Clouds,overcast clouds,80.24,77,100,4.97,0,0
+403,Siguiri,GN,2021-06-25 15:25:15,11.6667,-9.5,Clouds,broken clouds,98.67,25,83,9.91,0,0
+404,Perpignan,FR,2021-06-25 15:25:15,42.75,2.75,Clear,clear sky,87.01,28,0,11.5,0,0
+405,Nedjo,ET,2021-06-25 15:25:16,9.5046,35.5019,Rain,light rain,65.5,91,95,4.34,0,0
+406,Mpika,ZM,2021-06-25 15:25:16,-11.8343,31.4529,Clear,clear sky,68.45,42,2,8.7,0,0
+407,Albury,AU,2021-06-25 15:25:16,-36.0833,146.9167,Clouds,overcast clouds,49.91,97,90,3.44,0,0
+408,Leningradskiy,RU,2021-06-25 15:25:17,69.3833,178.4167,Clouds,overcast clouds,34.05,80,85,9.51,0,0
+409,Chokwe,MZ,2021-06-25 15:25:17,-24.5333,32.9833,Clear,clear sky,75.45,36,0,5.77,0,0
+410,Labuan,MY,2021-06-25 15:25:17,5.2767,115.2417,Rain,moderate rain,80.96,94,20,0.0,0,0
+411,Burgersdorp,ZA,2021-06-25 15:25:18,-30.9977,26.3286,Clear,clear sky,60.66,33,0,21.32,0,0
+412,Manaus,BR,2021-06-25 15:22:13,-3.1019,-60.025,Clouds,scattered clouds,86.5,74,40,3.44,0,0
+413,Bauchi,NG,2021-06-25 15:25:18,10.5,10.0,Clouds,scattered clouds,94.64,32,48,8.19,0,0
+414,Kalemie,CD,2021-06-25 15:25:19,-5.9475,29.1947,Clouds,few clouds,77.85,55,15,7.18,0,0
+415,Shingu,JP,2021-06-25 15:25:19,33.7333,135.9833,Clouds,overcast clouds,71.91,92,96,3.51,0,0
+416,Gadag,IN,2021-06-25 15:25:19,15.4167,75.6167,Clouds,overcast clouds,74.98,70,99,19.13,0,0
+417,Ust-Omchug,RU,2021-06-25 15:25:20,61.15,149.6333,Clouds,scattered clouds,50.0,78,49,5.35,0,0
+418,Avera,US,2021-06-25 15:25:21,33.194,-82.5271,Clouds,broken clouds,80.47,41,76,10.27,0,0
+419,Milkovo,RU,2021-06-25 15:25:22,54.7167,158.6167,Clouds,broken clouds,39.07,93,84,5.82,0,0
+420,Nanortalik,GL,2021-06-25 15:25:22,60.1432,-45.2371,Clouds,broken clouds,44.78,77,51,8.86,0,0
+421,Cooma,AU,2021-06-25 15:25:22,-36.2333,149.1333,Clouds,broken clouds,35.37,93,61,4.61,0,0
+422,Margate,GB,2021-06-25 15:25:23,51.3813,1.3862,Clouds,overcast clouds,68.76,79,100,7.0,0,0
+423,Komsomolskiy,UZ,2021-06-25 15:25:23,40.4272,71.7189,Clear,clear sky,86.72,19,1,23.02,0,0
+424,Wajima,JP,2021-06-25 15:25:23,37.4,136.9,Clouds,broken clouds,67.87,87,64,6.04,0,0
+425,Havoysund,NO,2021-06-25 15:25:24,70.9963,24.6622,Clouds,few clouds,49.08,82,24,23.8,0,0
+426,Clyde River,CA,2021-06-25 15:25:24,70.4692,-68.5914,Clouds,broken clouds,44.83,87,75,4.61,0,0
+427,Tocopilla,CL,2021-06-25 15:25:24,-22.092,-70.1979,Clouds,overcast clouds,63.57,67,90,5.06,0,0
+428,Pauini,BR,2021-06-25 15:25:25,-7.7136,-66.9764,Clear,clear sky,89.46,44,3,0.56,0,0
+429,Vila Velha,BR,2021-06-25 15:25:25,-20.3297,-40.2925,Clouds,few clouds,80.55,57,20,11.5,0,0
+430,Mafinga,TZ,2021-06-25 15:25:25,-7.25,35.0667,Clear,clear sky,79.65,28,7,2.1,0,0
+431,Dabakala,CI,2021-06-25 15:25:26,8.3667,-4.4333,Rain,moderate rain,83.46,70,91,4.14,0,0
+432,Hamina,FI,2021-06-25 15:25:26,60.5697,27.1979,Rain,light rain,78.08,83,87,2.53,0,0
+433,Paris,FR,2021-06-25 15:25:21,48.8534,2.3488,Clouds,broken clouds,71.22,79,75,1.99,0,0
+434,Samarai,PG,2021-06-25 15:25:27,-10.6167,150.6667,Rain,heavy intensity rain,78.31,85,100,12.8,0,0
+435,Hovd,MN,2021-06-25 15:25:27,48.0056,91.6419,Clouds,overcast clouds,63.45,30,100,5.77,0,0
+436,Yinchuan,CN,2021-06-25 15:25:27,38.4681,106.2731,Clouds,broken clouds,84.38,26,73,3.18,0,0
+437,Prince Rupert,CA,2021-06-25 15:24:30,54.3161,-130.3201,Clouds,broken clouds,64.49,82,75,4.61,0,0
+438,Karratha,AU,2021-06-25 15:25:28,-20.7377,116.8463,Clouds,few clouds,61.72,41,16,13.44,0,0
+439,Terme,TR,2021-06-25 15:25:28,41.2092,36.9739,Clouds,overcast clouds,75.13,75,100,4.45,0,0
+440,Centralia,US,2021-06-25 15:25:29,46.7162,-122.9543,Clear,clear sky,73.4,81,1,5.75,0,0
+441,Yining,CN,2021-06-25 15:25:29,29.0361,114.5636,Clouds,overcast clouds,76.93,94,100,0.67,0,0
+442,Sao Joao Da Barra,BR,2021-06-25 15:25:29,-21.6403,-41.0511,Clear,clear sky,77.09,65,2,15.23,0,0
+443,Porto-Vecchio,FR,2021-06-25 15:25:30,41.591,9.2795,Clear,clear sky,85.66,42,0,17.27,0,0
+444,Eppingen,DE,2021-06-25 15:25:30,49.1369,8.9103,Clouds,overcast clouds,72.75,69,97,7.78,0,0
+445,Vostok,RU,2021-06-25 15:25:31,46.4856,135.8833,Clear,clear sky,58.66,87,8,6.04,0,0
+446,Mahabad,IR,2021-06-25 15:25:31,36.7631,45.7222,Clouds,broken clouds,94.64,9,77,11.92,0,0
+447,Sikasso,ML,2021-06-25 15:25:31,10.9167,-7.0,Clouds,broken clouds,93.72,35,54,7.87,0,0
+448,Bambanglipuro,ID,2021-06-25 15:25:32,-7.95,110.2833,Clouds,broken clouds,63.61,91,69,5.39,0,0
+449,Ouallam,NE,2021-06-25 15:25:32,14.3188,2.0866,Clouds,broken clouds,101.35,25,83,3.6,0,0
+450,Springdale,US,2021-06-25 15:22:19,36.1867,-94.1288,Clouds,broken clouds,86.29,79,75,18.01,0,0
+451,Rio Gallegos,AR,2021-06-25 15:25:32,-51.6226,-69.2181,Clear,clear sky,33.85,80,0,20.71,0,0
+452,Bonthe,SL,2021-06-25 15:25:33,7.5264,-12.505,Rain,light rain,82.81,72,99,9.24,0,0
+453,Santa Maria,BR,2021-06-25 15:25:33,-29.6842,-53.8069,Clouds,broken clouds,60.1,77,75,5.75,0,0
+454,Gold Coast,AU,2021-06-25 15:24:53,-28.0,153.4333,Rain,light rain,64.99,92,100,1.01,0,0
+455,Naze,JP,2021-06-25 15:21:33,28.3667,129.4833,Clouds,overcast clouds,74.84,91,90,11.7,0,0
+456,Coahuayana,MX,2021-06-25 15:25:34,18.7333,-103.6833,Clouds,broken clouds,81.88,69,75,4.14,0,0
+457,Banon,ES,2021-06-25 15:25:34,40.8382,-1.1909,Clear,clear sky,79.38,57,0,9.22,0,0
+458,Mahebourg,MU,2021-06-25 15:25:35,-20.4081,57.7,Rain,light rain,73.26,68,75,5.75,0,0
+459,Hobyo,SO,2021-06-25 15:25:35,5.3505,48.5268,Clouds,scattered clouds,78.94,78,44,28.27,0,0
+460,Rosario,AR,2021-06-25 15:25:35,-32.9468,-60.6393,Clear,clear sky,62.58,74,0,1.99,0,0
+461,Riyadh,SA,2021-06-25 15:24:29,24.6877,46.7219,Clear,clear sky,105.94,4,0,14.97,0,0
+462,The Valley,AI,2021-06-25 15:21:28,18.217,-63.0578,Clouds,few clouds,87.66,70,20,16.11,0,0
+463,Basse,DE,2021-06-25 15:25:36,52.5518,9.5069,Clear,clear sky,76.14,38,0,9.22,0,0
+464,Sabha,LY,2021-06-25 15:25:36,27.0377,14.4283,Clear,clear sky,105.75,6,0,17.11,0,0
+465,Kondinskoye,RU,2021-06-25 15:25:36,59.6481,67.41,Clouds,scattered clouds,63.99,53,37,7.45,0,0
+466,Itarema,BR,2021-06-25 15:25:37,-2.9248,-39.9167,Clouds,few clouds,87.31,53,23,11.86,0,0
+467,Qaqortoq,GL,2021-06-25 15:25:37,60.7167,-46.0333,Clouds,broken clouds,52.3,80,76,1.72,0,0
+468,Kismayo,SO,2021-06-25 15:25:37,-0.3582,42.5454,Clouds,overcast clouds,78.1,73,100,14.43,0,0
+469,Gerede,TR,2021-06-25 15:25:38,40.8008,32.1969,Clear,clear sky,67.91,59,6,11.41,0,0
+470,Pak Phanang,TH,2021-06-25 15:25:38,8.3511,100.202,Clouds,scattered clouds,80.94,76,43,6.78,0,0
+471,Pyinmana,MM,2021-06-25 15:25:38,19.7333,96.2167,Rain,heavy intensity rain,76.17,94,96,5.95,0,0
+472,Esmeralda,CU,2021-06-25 15:25:39,21.8525,-78.1169,Clouds,few clouds,85.24,54,13,11.74,0,0
+473,Tabuk,PH,2021-06-25 15:25:39,17.4189,121.4443,Clouds,overcast clouds,74.55,82,98,3.74,0,0
+474,Savonlinna,FI,2021-06-25 15:25:39,61.8699,28.88,Clouds,few clouds,78.85,57,20,4.61,0,0
+475,Ochamchira,GE,2021-06-25 15:25:40,42.7121,41.4721,Clouds,broken clouds,76.05,80,53,7.43,0,0
+476,South Lake Tahoe,US,2021-06-25 15:23:29,38.9332,-119.9844,Haze,haze,65.79,70,1,0.0,0,0
+477,Vila Do Maio,CV,2021-06-25 15:25:40,15.1333,-23.2167,Clouds,scattered clouds,83.19,80,43,14.14,0,0
+478,Papagaios,BR,2021-06-25 15:25:41,-19.4492,-44.7478,Clear,clear sky,82.4,32,4,1.3,0,0
+479,Lyubashivka,UA,2021-06-25 15:25:41,47.8372,30.2598,Clouds,overcast clouds,87.03,54,100,10.56,0,0
+480,Okmulgee,US,2021-06-25 15:22:20,35.6234,-95.9605,Clouds,scattered clouds,88.88,66,40,17.27,0,0
+481,Selfoss,IS,2021-06-25 15:25:41,63.9331,-20.9971,Clouds,overcast clouds,50.88,94,100,18.01,0,0
+482,Gombong,ID,2021-06-25 15:25:42,-7.6072,109.5142,Clouds,overcast clouds,78.1,92,91,4.38,0,0
+483,Wenling,CN,2021-06-25 15:25:42,28.3669,121.36,Clouds,overcast clouds,78.91,95,99,1.95,0,0
+484,Jiaozuo,CN,2021-06-25 15:25:42,35.2397,113.2331,Clouds,overcast clouds,79.48,44,93,0.63,0,0
+485,Osa,RU,2021-06-25 15:25:43,57.2829,55.4567,Clouds,overcast clouds,63.68,96,100,7.74,0,0
+486,La Asuncion,VE,2021-06-25 15:25:43,11.0333,-63.8628,Clouds,broken clouds,82.13,89,70,11.5,0,0
+487,Comodoro Rivadavia,AR,2021-06-25 15:25:39,-45.8667,-67.5,Clouds,scattered clouds,44.46,57,40,12.66,0,0
+488,Nova Russas,BR,2021-06-25 15:25:44,-4.7067,-40.5631,Clouds,few clouds,92.37,34,14,6.91,0,0
+489,San Quintin,MX,2021-06-25 15:25:44,30.4833,-115.95,Clouds,scattered clouds,66.18,80,30,8.88,0,0
+490,Kodinsk,RU,2021-06-25 15:25:44,58.6881,99.1844,Clouds,overcast clouds,63.88,65,100,8.01,0,0
+491,Inhambane,MZ,2021-06-25 15:25:45,-23.865,35.3833,Clear,clear sky,73.38,43,0,9.22,0,0
+492,Zamora,EC,2021-06-25 15:24:56,-4.0692,-78.9567,Rain,light rain,72.64,76,60,3.69,0,0
+493,Mizdah,LY,2021-06-25 15:25:45,31.4451,12.9801,Clouds,scattered clouds,101.61,11,31,20.24,0,0
+494,Pinheiro Machado,BR,2021-06-25 15:25:45,-31.5783,-53.3811,Clouds,few clouds,57.78,82,11,3.85,0,0
+495,Winsum,NL,2021-06-25 15:25:46,53.33,6.5208,Clouds,overcast clouds,70.0,73,100,5.75,0,0
+496,Guilin,CN,2021-06-25 15:25:46,25.2819,110.2864,Clouds,overcast clouds,78.91,92,100,1.88,0,0
+497,Galveston,US,2021-06-25 15:25:46,29.3669,-94.9669,Clouds,broken clouds,91.2,78,75,4.0,0,0
+498,Seoul,KR,2021-06-25 15:22:46,37.5683,126.9778,Rain,heavy intensity rain,72.79,88,0,3.44,0,0
+499,Kavaratti,IN,2021-06-25 15:25:47,10.5669,72.642,Clouds,broken clouds,82.69,75,78,14.72,0,0
+500,Taunggyi,MM,2021-06-25 15:25:47,20.7833,97.0333,Rain,moderate rain,64.76,95,96,2.62,0,0
+501,Nang Rong,TH,2021-06-25 15:25:48,14.6377,102.7914,Rain,light rain,81.14,70,100,7.29,0,0
+502,Valparaiso,CL,2021-06-25 15:25:39,-33.0393,-71.6273,Clouds,overcast clouds,53.47,86,100,0.96,0,0
+503,Leninskoye,KZ,2021-06-25 15:25:48,41.7589,69.3864,Clouds,overcast clouds,80.53,19,97,14.67,0,0
+504,Ucluelet,CA,2021-06-25 15:25:48,48.9329,-125.5528,Clouds,broken clouds,73.09,92,80,1.59,0,0
+505,Brigantine,US,2021-06-25 15:25:49,39.4101,-74.3646,Clouds,scattered clouds,77.29,71,40,4.61,0,0
+506,Matagami,CA,2021-06-25 15:25:49,49.7502,-77.6328,Clouds,broken clouds,68.11,77,75,8.05,0,0
+507,Palimbang,PH,2021-06-25 15:25:49,6.2106,124.1894,Clouds,few clouds,77.76,88,14,5.5,0,0
+508,Quatre Cocos,MU,2021-06-25 15:25:50,-20.2078,57.7625,Rain,light rain,73.09,72,26,11.36,0,0
+509,Bone,DE,2021-06-25 15:25:50,51.9669,12.1396,Clouds,broken clouds,77.29,57,56,5.91,0,0
+510,Lincoln,US,2021-06-25 15:23:30,40.8,-96.667,Mist,mist,78.53,94,90,3.0,0,0
+511,Banepa,NP,2021-06-25 15:25:51,27.6298,85.5214,Rain,heavy intensity rain,70.12,94,75,4.61,0,0
+512,Sheridan,US,2021-06-25 15:25:51,44.8333,-106.9173,Clouds,overcast clouds,64.02,70,90,1.99,0,0
+513,Puerto Carreno,CO,2021-06-25 15:25:51,6.189,-67.4859,Clouds,overcast clouds,76.06,83,100,3.22,0,0
+514,Nouna,BF,2021-06-25 15:25:52,12.7333,-3.8667,Clouds,overcast clouds,88.47,41,90,9.53,0,0
+515,Uglovka,RU,2021-06-25 15:25:52,58.2392,33.5108,Clouds,few clouds,85.08,44,15,5.28,0,0
+516,Mangai,CD,2021-06-25 15:25:52,-4.05,19.5333,Clouds,scattered clouds,93.24,31,50,4.56,0,0
+517,Lazaro Cardenas,MX,2021-06-25 15:25:53,17.9583,-102.2,Clouds,overcast clouds,79.25,78,100,6.93,0,0
+518,Zhenlai,CN,2021-06-25 15:25:53,45.8495,123.2973,Clear,clear sky,71.58,69,1,11.48,0,0
+519,Soyo,AO,2021-06-25 15:25:53,-6.1349,12.3689,Clouds,broken clouds,80.65,78,79,13.96,0,0
+520,Huallanca,PE,2021-06-25 15:25:54,-9.8993,-76.9417,Clouds,scattered clouds,52.56,46,38,5.46,0,0
+521,Mosjoen,NO,2021-06-25 15:25:54,65.836,13.1908,Clouds,broken clouds,57.58,62,75,6.91,0,0
+522,Jacqueville,CI,2021-06-25 15:25:54,5.2052,-4.4146,Rain,light rain,84.11,80,100,7.05,0,0
+523,Richards Bay,ZA,2021-06-25 15:25:55,-28.783,32.0377,Clear,clear sky,65.88,85,1,2.77,0,0
+524,Bonfim,BR,2021-06-25 15:25:55,3.0833,-59.95,Clouds,overcast clouds,82.72,68,94,3.13,0,0
+525,Nishihara,JP,2021-06-25 15:25:56,26.1842,127.7558,Rain,light rain,80.26,94,75,11.5,0,0
+526,Nisia Floresta,BR,2021-06-25 15:25:56,-6.0911,-35.2086,Clouds,broken clouds,86.81,55,51,15.37,0,0
+527,Nizhnyaya Poyma,RU,2021-06-25 15:25:56,56.1622,97.1933,Rain,moderate rain,53.11,99,100,4.16,0,0
+528,Santona,ES,2021-06-25 15:25:57,43.4439,-3.4576,Clear,clear sky,79.81,66,1,8.88,0,0
+529,Semnan,IR,2021-06-25 15:25:57,35.5729,53.3971,Clear,clear sky,90.18,11,7,17.07,0,0
+530,Barra,BR,2021-06-25 15:25:57,-11.0894,-43.1417,Clear,clear sky,83.68,41,10,5.32,0,0
+531,Hue,VN,2021-06-25 15:25:58,16.4667,107.6,Clouds,few clouds,84.31,70,20,2.3,0,0
+532,Katunino,RU,2021-06-25 15:25:58,64.3862,40.6298,Clouds,scattered clouds,58.89,69,32,7.87,0,0
+533,Moree,AU,2021-06-25 15:25:59,-29.4667,149.85,Clear,clear sky,42.82,100,0,0.0,0,0
+534,Marsa Matruh,EG,2021-06-25 15:25:59,31.3525,27.2453,Clear,clear sky,81.68,66,0,17.02,0,0
+535,Krasnoshchekovo,RU,2021-06-25 15:25:59,51.6708,82.7289,Clouds,overcast clouds,51.08,82,91,4.74,0,0
+536,Chegdomyn,RU,2021-06-25 15:25:59,51.1167,133.0167,Clouds,overcast clouds,59.92,96,100,2.59,0,0
+537,Almunecar,ES,2021-06-25 15:26:00,36.7339,-3.6907,Clear,clear sky,101.32,58,0,1.23,0,0
+538,Cabedelo,BR,2021-06-25 15:26:00,-6.9811,-34.8339,Clouds,scattered clouds,83.07,65,34,19.8,0,0
+539,Iracoubo,GF,2021-06-25 15:26:01,5.4802,-53.2011,Clear,clear sky,84.24,65,3,10.45,0,0
+540,Hualmay,PE,2021-06-25 15:26:01,-11.0964,-77.6139,Clouds,broken clouds,64.89,75,59,7.74,0,0
+541,Takoradi,GH,2021-06-25 15:26:01,4.8845,-1.7554,Clouds,overcast clouds,76.48,86,100,5.84,0,0
+542,Newton Aycliffe,GB,2021-06-25 15:26:02,54.6184,-1.5719,Rain,light rain,52.68,91,75,1.01,0,0
+543,Avenal,US,2021-06-25 15:22:59,36.0041,-120.129,Clear,clear sky,70.83,48,0,3.58,0,0
+544,Challapata,BO,2021-06-25 15:26:02,-18.9,-66.7667,Clouds,scattered clouds,46.26,18,25,4.88,0,0
+545,Bela,IN,2021-06-25 15:26:03,25.9333,81.9833,Rain,light rain,82.42,78,100,5.68,0,0
+546,Portland,US,2021-06-25 15:24:51,45.5234,-122.6762,Clouds,scattered clouds,74.68,71,40,1.99,0,0
+547,Eugene,US,2021-06-25 15:23:57,44.0521,-123.0867,Clouds,broken clouds,72.39,74,75,1.01,0,0
+548,Whitehorse,CA,2021-06-25 15:26:03,60.7161,-135.0538,Clouds,scattered clouds,57.02,66,40,11.99,0,0
+549,Macau,MO,2021-06-25 15:25:15,22.2006,113.5461,Rain,light rain,84.0,89,40,9.22,0,0
+550,Tambau,BR,2021-06-25 15:26:04,-21.705,-47.2744,Clouds,few clouds,83.46,30,12,3.71,0,0
+551,Shubarshi,KZ,2021-06-25 15:26:04,48.5872,57.1869,Clear,clear sky,89.67,27,1,12.8,0,0
+552,Kununurra,AU,2021-06-25 15:26:04,-15.7667,128.7333,Clouds,scattered clouds,76.98,44,40,10.36,0,0
+553,Cap-Aux-Meules,CA,2021-06-25 15:26:05,47.3821,-61.8597,Clouds,scattered clouds,66.25,55,40,11.5,0,0
+554,Zhanaozen,KZ,2021-06-25 15:26:05,43.3,52.8,Clouds,scattered clouds,102.09,11,32,7.54,0,0
+555,Daokou,CN,2021-06-25 15:26:05,35.5639,114.5058,Rain,light rain,78.37,65,63,11.32,0,0
+556,Prokhorovka,RU,2021-06-25 15:26:06,51.0374,36.7325,Clouds,few clouds,89.17,64,20,7.29,0,0
+557,Chunoyar,RU,2021-06-25 15:26:06,57.4467,97.3217,Clouds,overcast clouds,54.09,98,100,2.33,0,0
+558,Poyarkovo,RU,2021-06-25 15:26:07,49.6,128.6833,Clear,clear sky,67.06,68,7,8.1,0,0
+559,Grants Pass,US,2021-06-25 15:26:07,42.439,-123.3284,Clear,clear sky,77.86,59,1,0.0,0,0
+560,Eirunepe,BR,2021-06-25 15:26:07,-6.6603,-69.8736,Clouds,overcast clouds,82.0,64,90,0.96,0,0
+561,Skaelskor,DK,2021-06-25 15:26:08,55.2506,11.2935,Clouds,overcast clouds,70.34,54,100,4.52,0,0
+562,Chicama,PE,2021-06-25 15:26:08,-7.8447,-79.1469,Clouds,broken clouds,64.94,76,76,7.25,0,0
+563,Praia,CV,2021-06-25 15:26:08,14.9215,-23.5087,Clear,clear sky,82.94,51,0,23.02,0,0
+564,Fort Dodge,US,2021-06-25 15:26:09,42.4975,-94.168,Clouds,broken clouds,77.4,83,75,3.44,0,0
+565,Ternate,ID,2021-06-25 15:26:09,0.8,127.4,Clear,clear sky,80.69,78,6,2.46,0,0
+566,Indiaroba,BR,2021-06-25 15:26:09,-11.5192,-37.5117,Clouds,scattered clouds,80.22,55,37,9.08,0,0
+567,Grenada,ES,2021-06-25 15:26:10,37.1882,-3.6067,Clear,clear sky,93.56,32,0,4.0,0,0
+568,Roma,US,2021-06-25 15:24:03,43.2128,-75.4557,Clear,clear sky,77.95,57,1,11.5,0,0
+569,Zhigansk,RU,2021-06-25 15:26:10,66.7697,123.3711,Clear,clear sky,63.79,62,2,5.73,0,0
+570,Peniche,PT,2021-06-25 15:26:10,39.3558,-9.3811,Clouds,broken clouds,89.55,77,59,11.01,0,0
+571,Klaksvik,FO,2021-06-25 15:26:11,62.2266,-6.589,Clouds,broken clouds,56.32,80,54,5.35,0,0
+572,Kuala Terengganu,MY,2021-06-25 15:26:11,5.3302,103.1408,Clouds,few clouds,80.55,78,20,4.61,0,0
+573,Posse,BR,2021-06-25 15:26:12,-14.0931,-46.3694,Clear,clear sky,84.02,26,0,6.87,0,0
+574,Maumere,ID,2021-06-25 15:26:12,-8.6199,122.2111,Clouds,few clouds,78.91,83,13,4.54,0,0
+575,Vagur,FO,2021-06-25 15:26:12,61.4732,-6.8119,Clouds,scattered clouds,49.32,77,38,9.37,0,0
+576,Russell,US,2021-06-25 15:26:13,32.3502,-85.1999,Clouds,broken clouds,80.91,59,75,9.22,0,0
+577,Kimbe,PG,2021-06-25 15:26:13,-5.5502,150.1429,Clouds,overcast clouds,75.7,93,100,3.56,0,0
+578,Puerto Escondido,MX,2021-06-25 15:24:06,15.85,-97.0667,Clouds,overcast clouds,81.43,74,90,5.75,0,0
+579,San Luis,AR,2021-06-25 15:26:13,-33.295,-66.3356,Clear,clear sky,57.79,44,0,7.25,0,0
+580,Mbandaka,CD,2021-06-25 15:26:14,0.0487,18.2603,Clouds,broken clouds,84.72,53,82,1.12,0,0
+581,Plouzane,FR,2021-06-25 15:26:14,48.3833,-4.6167,Drizzle,light intensity drizzle,61.12,97,90,8.05,0,0
+582,Novochernorechenskiy,RU,2021-06-25 15:26:14,56.2669,91.0828,Clouds,overcast clouds,50.88,96,97,6.78,0,0
+583,Partizanskoye,RU,2021-06-25 15:26:15,55.5006,94.39,Clouds,overcast clouds,54.37,79,100,4.07,0,0
+584,Bodden Town,KY,2021-06-25 15:26:15,19.2833,-81.25,Clouds,scattered clouds,87.93,53,40,3.0,0,0
+585,Port Moresby,PG,2021-06-25 15:24:12,-9.4431,147.1797,Clouds,overcast clouds,75.51,90,98,10.92,0,0
+586,Erenhot,CN,2021-06-25 15:26:16,43.6475,111.9767,Clouds,broken clouds,68.97,53,66,3.6,0,0
+587,Beisfjord,NO,2021-06-25 15:26:16,68.3751,17.5988,Clouds,broken clouds,55.26,67,81,6.11,0,0
+588,Namatanai,PG,2021-06-25 15:26:16,-3.6667,152.4333,Clouds,broken clouds,79.32,81,75,6.93,0,0
+589,Gusau,NG,2021-06-25 15:26:17,12.1628,6.6614,Clouds,broken clouds,91.02,39,67,3.83,0,0
+590,Gat,IL,2021-06-25 15:22:02,31.61,34.7642,Clear,clear sky,89.4,46,0,11.86,0,0
+591,Tevaitoa,PF,2021-06-25 15:26:17,-16.7833,-151.5,Rain,light rain,80.33,79,28,14.83,0,0
+592,Skerries,IE,2021-06-25 15:26:18,53.5828,-6.1083,Clouds,overcast clouds,58.17,71,100,8.37,0,0
+593,San Rafael,AR,2021-06-25 15:26:18,-34.6177,-68.3301,Clouds,broken clouds,51.71,49,79,17.67,0,0
+594,Cervo,ES,2021-06-25 15:26:18,43.6702,-7.4101,Clear,clear sky,76.19,76,3,10.54,0,0
+595,Kloulklubed,PW,2021-06-25 15:24:12,7.0419,134.2556,Clouds,overcast clouds,77.5,70,100,15.75,0,0
+596,Coquimbo,CL,2021-06-25 15:24:39,-29.9533,-71.3436,Clouds,overcast clouds,59.5,64,100,4.21,0,0
+597,Imeni Poliny Osipenko,RU,2021-06-25 15:26:19,52.4201,136.4853,Clouds,overcast clouds,51.35,91,100,11.27,0,0
+598,Elbrus,RU,2021-06-25 15:26:19,43.2577,42.6443,Clear,clear sky,71.15,41,2,4.9,0,0
+599,Namanga,KE,2021-06-25 15:26:20,-2.5433,36.7905,Clouds,scattered clouds,74.62,45,43,6.76,0,0
+600,Abalak,RU,2021-06-25 15:26:20,58.1286,68.5944,Clouds,scattered clouds,62.22,58,47,5.32,0,0
+601,Paamiut,GL,2021-06-25 15:26:20,61.994,-49.6678,Clouds,overcast clouds,42.31,82,96,17.22,0,0
+602,Lyngseidet,NO,2021-06-25 15:26:21,69.5763,20.2189,Clouds,broken clouds,55.4,69,76,6.17,0,0
+603,Fuyang,CN,2021-06-25 15:26:21,32.9,115.8167,Clouds,overcast clouds,75.79,79,100,6.87,0,0
+604,Bosaso,SO,2021-06-25 15:26:21,11.2842,49.1816,Clouds,broken clouds,93.56,45,68,6.64,0,0
+605,Winschoten,NL,2021-06-25 15:26:22,53.1442,7.0347,Clouds,overcast clouds,70.0,79,100,4.27,0,0
+606,Lufilufi,WS,2021-06-25 15:26:22,-13.8745,-171.5986,Rain,moderate rain,74.79,81,100,15.73,0,0
+607,Buffalo,US,2021-06-25 15:26:22,42.8865,-78.8784,Clouds,broken clouds,82.09,56,75,12.66,0,0
+608,Acajutla,SV,2021-06-25 15:26:23,13.5928,-89.8275,Clouds,scattered clouds,84.79,67,43,2.51,0,0
+609,Coihaique,CL,2021-06-25 15:26:23,-45.5752,-72.0662,Clouds,overcast clouds,38.19,88,97,10.47,0,0
+610,Bandarbeyla,SO,2021-06-25 15:25:17,9.4942,50.8122,Clouds,broken clouds,78.37,77,54,30.82,0,0
+611,Miranda,CO,2021-06-25 15:26:24,3.2499,-76.2281,Clouds,overcast clouds,69.93,71,88,4.61,0,0
+612,Bilma,NE,2021-06-25 15:26:24,18.6853,12.9164,Clouds,few clouds,108.16,8,12,9.62,0,0
+613,Yantal,RU,2021-06-25 15:26:24,56.8471,105.2542,Clouds,scattered clouds,60.28,55,49,2.28,0,0
+614,Shipunovo,RU,2021-06-25 15:26:25,52.1582,82.2173,Clouds,broken clouds,53.13,76,75,2.19,0,0
+615,Dudinka,RU,2021-06-25 15:26:25,69.4058,86.1778,Clouds,overcast clouds,49.86,53,98,19.95,0,0
+616,Nueva Loja,EC,2021-06-25 15:26:25,0.0847,-76.8828,Clouds,scattered clouds,80.62,78,40,4.61,0,0
+617,Bara,NG,2021-06-25 15:26:25,10.3744,10.7288,Clouds,scattered clouds,97.43,30,38,10.6,0,0
+618,Dharchula,IN,2021-06-25 15:26:26,29.85,80.5333,Clouds,few clouds,72.05,83,24,2.42,0,0
+619,Kerchevskiy,RU,2021-06-25 15:26:26,59.946,56.2884,Clouds,scattered clouds,82.89,49,49,3.65,0,0
+620,Yuli,NG,2021-06-25 15:26:27,9.6989,10.2744,Clouds,broken clouds,96.06,34,63,6.82,0,0
+621,Fasa,IR,2021-06-25 15:26:27,28.9383,53.6482,Clear,clear sky,99.64,8,0,6.91,0,0
+622,Abu Kamal,SY,2021-06-25 15:26:27,34.4506,40.9171,Clear,clear sky,104.07,12,0,7.09,0,0
+623,Northam,GB,2021-06-25 15:26:28,51.0333,-4.2167,Clouds,overcast clouds,63.3,89,89,15.59,0,0
+624,Xining,CN,2021-06-25 15:26:28,36.6167,101.7667,Clouds,broken clouds,62.55,63,68,2.08,0,0
+625,Gaoyou,CN,2021-06-25 15:26:28,32.7858,119.4278,Rain,light rain,74.93,75,100,17.67,0,0
+626,Mildura,AU,2021-06-25 15:26:29,-34.2,142.15,Clouds,overcast clouds,50.07,81,90,6.91,0,0
+627,Terrace,CA,2021-06-25 15:23:32,54.5163,-128.6035,Clouds,broken clouds,64.31,77,75,0.0,0,0
+628,Bekhtery,UA,2021-06-25 15:26:29,46.251,32.2927,Clouds,few clouds,93.63,69,23,11.79,0,0
+629,Mogadishu,SO,2021-06-25 15:26:29,2.0371,45.3438,Clouds,broken clouds,77.68,80,68,19.73,0,0
+630,Jumla,NP,2021-06-25 15:26:30,29.2747,82.1838,Clouds,broken clouds,61.39,90,55,4.23,0,0
+631,Eldoret,KE,2021-06-25 15:26:30,0.5204,35.2699,Rain,light rain,71.69,49,75,3.44,0,0
+632,Lakes Entrance,AU,2021-06-25 15:26:30,-37.8811,147.981,Clouds,broken clouds,47.17,89,69,14.16,0,0
+633,Ostrovskoye,RU,2021-06-25 15:26:31,57.8057,42.2433,Clouds,broken clouds,85.5,51,65,6.6,0,0
+634,Kattivakkam,IN,2021-06-25 15:26:31,13.2167,80.3167,Clouds,overcast clouds,87.89,80,98,14.12,0,0
+635,Leshukonskoye,RU,2021-06-25 15:26:31,64.8989,45.7622,Clouds,overcast clouds,63.05,82,100,3.22,0,0
+636,Shenzhen,CN,2021-06-25 15:23:05,22.5455,114.0683,Clouds,overcast clouds,82.27,94,98,5.14,0,0
+637,Buenos Aires,AR,2021-06-25 15:26:32,-34.6132,-58.3772,Clouds,overcast clouds,62.98,57,95,5.19,0,0
+638,Okha,RU,2021-06-25 15:26:32,53.5739,142.9478,Clouds,broken clouds,42.89,94,71,5.97,0,0
+639,Luganville,VU,2021-06-25 15:26:33,-15.5333,167.1667,Clouds,broken clouds,75.15,78,82,8.01,0,0
+640,Carballo,ES,2021-06-25 15:26:33,43.213,-8.691,Clear,clear sky,85.42,78,8,9.66,0,0
+641,Lichinga,MZ,2021-06-25 15:26:33,-13.3128,35.2406,Clouds,scattered clouds,63.75,50,48,4.41,0,0
+642,Muroto,JP,2021-06-25 15:26:34,33.2833,134.15,Clouds,broken clouds,73.26,79,65,2.84,0,0
+643,Horsham,GB,2021-06-25 15:26:34,51.064,-0.3272,Clouds,scattered clouds,71.74,72,40,8.05,0,0
+644,Constitucion,CL,2021-06-25 15:26:34,-35.3333,-72.4167,Clouds,overcast clouds,52.61,71,90,9.19,0,0
+645,Half Moon Bay,US,2021-06-25 15:26:35,37.4636,-122.4286,Mist,mist,63.63,85,90,3.44,0,0
+646,Krasnoselkup,RU,2021-06-25 15:26:35,65.7,82.4667,Clouds,overcast clouds,55.42,47,96,17.6,0,0
+647,Wattegama,LK,2021-06-25 15:26:35,6.7989,81.4808,Clouds,scattered clouds,81.52,66,32,3.06,0,0
+648,Jasper,US,2021-06-25 15:25:25,37.2001,-94.3502,Clouds,broken clouds,86.45,73,75,5.99,0,0
+649,Tiznit,MA,2021-06-25 15:26:36,29.5833,-9.5,Clear,clear sky,82.27,39,0,9.89,0,0
+650,Sumenep,ID,2021-06-25 15:26:36,-7.0167,113.8667,Clouds,few clouds,80.35,80,16,8.93,0,0
+651,Bud,US,2021-06-25 15:26:36,39.447,-86.1758,Clouds,overcast clouds,76.89,88,100,14.03,0,0
+652,Bitkine,TD,2021-06-25 15:26:37,11.9801,18.2138,Clouds,few clouds,98.71,26,11,7.78,0,0
+653,Phalombe,MW,2021-06-25 15:26:37,-15.8064,35.6507,Clouds,scattered clouds,69.67,46,40,1.92,0,0
+654,Wadi Maliz,TN,2021-06-25 15:26:37,36.4681,8.5495,Clouds,broken clouds,89.26,32,63,9.22,0,0
+655,Sinnamary,GF,2021-06-25 15:26:38,5.3833,-52.95,Clear,clear sky,83.41,69,6,10.83,0,0
+656,Newala,TZ,2021-06-25 15:26:38,-10.9431,39.2787,Clouds,overcast clouds,68.9,52,100,4.7,0,0
+657,Adre,TD,2021-06-25 15:26:38,13.4667,22.2,Clouds,scattered clouds,98.82,17,25,6.13,0,0
+658,Fort Nelson,CA,2021-06-25 15:23:27,58.8053,-122.7002,Clouds,few clouds,72.99,43,20,11.5,0,0
+659,Tshane,BW,2021-06-25 15:26:39,-24.0196,21.8684,Clear,clear sky,73.62,19,0,10.02,0,0
+660,Douglas,US,2021-06-25 15:26:39,41.3,-96.167,Mist,mist,78.55,88,75,3.0,0,0
+661,Kyren,RU,2021-06-25 15:26:40,51.6828,102.1408,Clear,clear sky,63.75,72,3,1.66,0,0
+662,Skibbereen,IE,2021-06-25 15:26:40,51.55,-9.2667,Clear,clear sky,58.8,57,9,13.65,0,0
+663,Oshogbo,NG,2021-06-25 15:24:14,7.7667,4.5667,Rain,light rain,85.89,61,72,3.36,0,0
+664,Bouar,CF,2021-06-25 15:26:40,5.934,15.596,Clouds,overcast clouds,80.85,64,87,1.32,0,0
+665,Garden City,US,2021-06-25 15:26:41,42.3256,-83.331,Rain,moderate rain,72.82,92,90,1.01,0,0
+666,Impfondo,CG,2021-06-25 15:26:41,1.6381,18.0667,Clouds,broken clouds,91.92,40,84,0.85,0,0
+667,Atocha,BO,2021-06-25 15:26:41,-20.9333,-66.2333,Clouds,few clouds,43.65,11,16,15.64,0,0
+668,East Linton,GB,2021-06-25 15:26:42,55.9874,-2.6568,Clouds,broken clouds,59.02,75,73,22.41,0,0
+669,Rundu,NA,2021-06-25 15:26:42,-17.9333,19.7667,Clear,clear sky,79.92,18,0,3.06,0,0
+670,Guarapari,BR,2021-06-25 15:26:42,-20.6667,-40.4975,Clouds,overcast clouds,80.49,58,86,12.5,0,0
+671,Manicore,BR,2021-06-25 15:26:43,-5.8092,-61.3003,Clear,clear sky,78.75,89,0,2.3,0,0
+672,Domoni,KM,2021-06-25 15:26:43,-12.2569,44.5319,Clear,clear sky,75.78,71,9,7.83,0,0
+673,Chapais,CA,2021-06-25 15:26:44,49.7834,-74.8492,Clouds,overcast clouds,60.58,86,100,8.93,0,0
+674,Rio Grande,BR,2021-06-25 15:24:04,-32.035,-52.0986,Clouds,few clouds,62.94,57,11,8.03,0,0
+675,Jiangyou,CN,2021-06-25 15:26:44,31.7667,104.7167,Clouds,broken clouds,70.48,94,76,1.79,0,0
+676,Tagusao,PH,2021-06-25 15:26:44,9.1924,117.8141,Clouds,overcast clouds,80.42,82,98,5.95,0,0
+677,Vao,NC,2021-06-25 15:26:45,-22.6667,167.4833,Clouds,broken clouds,70.77,75,70,19.28,0,0
+678,Ulladulla,AU,2021-06-25 15:26:45,-35.35,150.4667,Clouds,overcast clouds,51.1,78,100,9.01,0,0
+679,Pafos,CY,2021-06-25 15:26:45,34.7667,32.4167,Clouds,few clouds,91.24,74,20,14.97,0,0
+680,Mgachi,RU,2021-06-25 15:26:46,51.05,142.2667,Clouds,overcast clouds,51.3,98,95,3.69,0,0
+681,Ginir,ET,2021-06-25 15:26:46,7.1333,40.7,Rain,light rain,65.62,64,98,12.19,0,0
+682,Montale,IT,2021-06-25 15:26:46,43.9356,11.0171,Clear,clear sky,86.68,44,0,5.01,0,0
+683,Vanimo,PG,2021-06-25 15:26:47,-2.6741,141.3028,Rain,light rain,77.38,88,82,2.55,0,0
+684,Boditi,ET,2021-06-25 15:26:47,6.9667,37.8667,Rain,moderate rain,64.51,75,100,5.37,0,0
+685,Karasuk,RU,2021-06-25 15:26:47,53.7377,78.0403,Clouds,few clouds,55.09,74,20,2.59,0,0
+686,Sevierville,US,2021-06-25 15:23:23,35.8681,-83.5618,Clear,clear sky,81.79,63,1,4.61,0,0
+687,Rameswaram,IN,2021-06-25 15:26:48,9.2833,79.3,Clouds,broken clouds,83.35,78,83,18.32,0,0
+688,Nago,JP,2021-06-25 15:26:48,26.5881,127.9761,Clouds,few clouds,81.03,88,20,11.92,0,0
