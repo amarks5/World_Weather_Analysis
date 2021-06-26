@@ -1,1 +1,2 @@
 # World_Weather_Analysis
+The purpose of this challenge was to help customers going on vacation. We took into consideration the type of weather they wanted to experience while on vacation and pulled random cities around the world that aligned with their desires. We were able to create google maps with markers to make it more user friendly versus just looking at a spreadsheet. We were also able to create a map with their route on it including markers. Overall, this project was super neat! Really helpful to plan my next trip!
